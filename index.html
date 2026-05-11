@@ -97,7 +97,7 @@
 
 let allData = [];
 
-fetch('FCMobile/Ligue1_Player.csv')
+fetch('FCMobile/Ligue1_Player.csv?v=' + Date.now())
   .then(response => response.text())
   .then(csv => {
 
