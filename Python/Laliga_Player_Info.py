@@ -71,9 +71,9 @@ for slug in team_slugs:
             jersey = int(jersey) if str(jersey).replace('.','').isdigit() else None
         
         all_players.append({
-            "Team": team_info.get("name") or slug.replace("-", " ").title(),
-            "Jersey_Number": jersey,
             "Player_Name": person.get("name"),
+            "Jersey_Number": jersey,
+            "Team": team_info.get("name") or slug.replace("-", " ").title(),
             "Position": position.get("name"),
             "Nationality": person.get("country", {}).get("id")
         })
