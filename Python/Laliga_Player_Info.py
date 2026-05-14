@@ -69,9 +69,14 @@ for slug in team_slugs:
         # Đảm bảo là integer (an toàn)
         if jersey is not None:
             jersey = int(jersey) if str(jersey).replace('.','').isdigit() else None
-        
+        slug_player = person.get("slug", "")
+        if slug_player != "":
+            slug_player = slug_player.replace("-", " ").title()
+            player_name = f"{person.get('name')} ({slug_player})"
+        else:
+            player_name = person.get('name')
         all_players.append({
-            "Player_Name": person.get("name"),
+            "Player_Name": player_name,
             "Jersey_Number": jersey,
             "Team": team_info.get("name") or slug.replace("-", " ").title(),
             "Position": position.get("name"),
