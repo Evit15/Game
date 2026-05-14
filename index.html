@@ -176,11 +176,12 @@ function renderTable(data){
 function filterData(){
 
   const keyword =
-    document
-      .getElementById('search')
-      .value
-      .toLowerCase()
-      .trim();
+    normalizeForSearch(
+      document
+        .getElementById('search')
+        .value
+        .trim()
+    );
 
   const selectedColumn =
     parseInt(
@@ -196,8 +197,9 @@ function filterData(){
       .filter(row => {
 
         const value =
-          (row[selectedColumn] || '')
-          .toLowerCase();
+          normalizeForSearch(
+            row[selectedColumn] || ''
+          );
 
         return value.includes(keyword);
 
@@ -206,6 +208,32 @@ function filterData(){
   ];
 
   renderTable(filtered);
+
+}
+
+function normalizeForSearch(text){
+
+  const specialCharMap = {
+    'ß': 'ss',
+    'æ': 'ae',
+    'œ': 'oe',
+    'ø': 'o',
+    'đ': 'd',
+    'ł': 'l',
+    'þ': 'th'
+  };
+
+  const replaced =
+    text
+      .toLowerCase()
+      .replace(
+        /[ßæœøđłþ]/g,
+        char => specialCharMap[char] || char
+      );
+
+  return replaced
+    .normalize('NFKD')
+    .replace(/\p{M}/gu, '');
 
 }
 
