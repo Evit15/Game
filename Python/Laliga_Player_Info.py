@@ -82,7 +82,7 @@ for slug in team_slugs:
 
 # ====================== XUẤT FILE CSV ======================
 df = pd.DataFrame(all_players)
-df = df[['Team', 'Jersey_Number', 'Player_Name', 'Position', 'Nationality']]
+df = df[['Player_Name', 'Jersey_Number', 'Team', 'Position', 'Nationality']]
 df = df.sort_values(by=['Team', 'Jersey_Number']).reset_index(drop=True)
 
 # Đảm bảo Jersey_Number là kiểu số nguyên
