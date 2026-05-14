@@ -1,0 +1,742 @@
+﻿Team,Jersey_Number,Player_Name,Position,Nationality
+Athletic Club,1,Unai Simón,Goalkeeper,ES
+Athletic Club,2,Andoni Gorosabel,Defender,ES
+Athletic Club,3,Dani Vivian,Defender,ES
+Athletic Club,4,Aitor Paredes,Defender,ES
+Athletic Club,5,Yeray Álvarez,Defender,ES
+Athletic Club,6,Mikel Vesga,Midfielder,ES
+Athletic Club,7,Alex Berenguer,Forward,ES
+Athletic Club,8,Oihan Sancet,Midfielder,ES
+Athletic Club,9,Iñaki Williams,Forward,GH
+Athletic Club,10,Nico Williams,Forward,ES
+Athletic Club,11,Gorka Guruzeta,Forward,ES
+Athletic Club,12,Jesús Areso,Defender,ES
+Athletic Club,13,Unai Egiluz,Defender,ES
+Athletic Club,14,Aymeric Laporte,Defender,ES
+Athletic Club,15,Íñigo Lekue,Defender,ES
+Athletic Club,16,Íñigo Ruíz de Galarreta,Midfielder,ES
+Athletic Club,17,Yuri Berchiche,Defender,ES
+Athletic Club,18,Mikel Jauregizar,Midfielder,ES
+Athletic Club,19,Adama Boiro,Midfielder,ES
+Athletic Club,20,Unai Gómez,Midfielder,ES
+Athletic Club,21,Maroan Sannadi,Forward,MA
+Athletic Club,22,Nico Serrano,Forward,ES
+Athletic Club,23,Robert Navarro,Midfielder,ES
+Athletic Club,24,Beñat Prados,Midfielder,ES
+Athletic Club,25,Urko Iruretagoiena Lertxundi,Midfielder,ES
+Athletic Club,26,Mikel Santos,Goalkeeper,ES
+Athletic Club,27,Álex Padilla,Goalkeeper,MX
+Athletic Club,28,Aimar Duñabeitia,Defender,ES
+Athletic Club,30,Alejandro Rego,Defender,ES
+Athletic Club,31,Asier Hierro,Forward,ES
+Athletic Club,33,Adrián Pérez,Forward,ES
+Athletic Club,34,Jon de Luis,Defender,ES
+Athletic Club,35,Ibon Sánchez,Forward,ES
+Athletic Club,40,Elijah Gift Izobodo John,Forward,ES
+Athletic Club,44,Selton Sánchez,Midfielder,ES
+Athletic Club,47,Iker Monreal,Defender,ES
+Athletic Club,48,Endika Bujan,Forward,ES
+Athletic Club,49,Eder García,Midfielder,ES
+Athletic Club,,Ernesto Valverde,Coach,ES
+Athletic Club,,Jon Aspiazu,Assistant coach,ES
+Club Atlético Osasuna,1,Sergio Herrera,Goalkeeper,ES
+Club Atlético Osasuna,2,Iker Benito,Forward,ES
+Club Atlético Osasuna,3,Juan Cruz Álvaro Armada,Defender,ES
+Club Atlético Osasuna,5,Jorge Herrando,Defender,ES
+Club Atlético Osasuna,6,Lucas Torró,Midfielder,ES
+Club Atlético Osasuna,7,Jon Moncayola,Midfielder,ES
+Club Atlético Osasuna,8,Iker Muñoz,Midfielder,ES
+Club Atlético Osasuna,9,Raúl García,Forward,ES
+Club Atlético Osasuna,10,Aimar Oroz,Forward,ES
+Club Atlético Osasuna,11,Kike Barja,Forward,ES
+Club Atlético Osasuna,13,Aitor Fernández,Goalkeeper,ES
+Club Atlético Osasuna,14,Rubén García,Forward,ES
+Club Atlético Osasuna,16,Moi Gómez,Midfielder,ES
+Club Atlético Osasuna,17,Ante Budimir,Forward,HR
+Club Atlético Osasuna,18,Raúl Moro,Midfielder,ES
+Club Atlético Osasuna,19,Valentin Rosier,Defender,FR
+Club Atlético Osasuna,20,Javi Galán,Midfielder,ES
+Club Atlético Osasuna,21,Víctor Muñoz,Midfielder,ES
+Club Atlético Osasuna,22,Enzo Boyomo,Defender,CM
+Club Atlético Osasuna,23,Abel Bretones,Midfielder,ES
+Club Atlético Osasuna,24,Alejandro Catena,Defender,ES
+Club Atlético Osasuna,26,Mauro Echegoyen,Midfielder,ES
+Club Atlético Osasuna,27,Martín Pedroarena,Midfielder,ES
+Club Atlético Osasuna,28,Jon García,Midfielder,ES
+Club Atlético Osasuna,29,Asier Osambela,Midfielder,ES
+Club Atlético Osasuna,31,Dimitrios Stamatakis,Goalkeeper,GR
+Club Atlético Osasuna,32,Rafa Fernández,Goalkeeper,ES
+Club Atlético Osasuna,34,Raúl Chasco,Defender,ES
+Club Atlético Osasuna,35,Unai Santos,Defender,ES
+Club Atlético Osasuna,37,Roberto Arroyo,Forward,ES
+Club Atlético Osasuna,41,Iñigo Arguibide,Defender,ES
+Club Atlético Osasuna,42,Mikel Serrano,Defender,ES
+Club Atlético Osasuna,47,Aly Doumbia,Forward,ES
+Club Atlético Osasuna,48,Manu Rico,Midfielder,ES
+Club Atlético Osasuna,,Alessio Lisci,Coach,IT
+Club Atlético Osasuna,,José María Sanz Sánchez,Assistant coach,ES
+Club Atlético de Madrid SAD,1,Juan Musso,Goalkeeper,AR
+Club Atlético de Madrid SAD,2,José María Giménez,Defender,UY
+Club Atlético de Madrid SAD,3,Matteo Ruggeri,Midfielder,IT
+Club Atlético de Madrid SAD,4,Rodrigo Mendoza,Midfielder,ES
+Club Atlético de Madrid SAD,5,Johnny Cardoso,Midfielder,US
+Club Atlético de Madrid SAD,6,Jorge Resurrección Merodio,Midfielder,ES
+Club Atlético de Madrid SAD,7,Antoine Griezmann,Forward,FR
+Club Atlético de Madrid SAD,8,Pablo Barrios,Midfielder,ES
+Club Atlético de Madrid SAD,9,Alexander Sørloth,Forward,NO
+Club Atlético de Madrid SAD,10,Álex Baena,Midfielder,ES
+Club Atlético de Madrid SAD,11,Thiago Almada,Midfielder,AR
+Club Atlético de Madrid SAD,13,Jan Oblak,Goalkeeper,SI
+Club Atlético de Madrid SAD,14,Marcos Llorente,Midfielder,ES
+Club Atlético de Madrid SAD,15,Clément Lenglet,Defender,FR
+Club Atlético de Madrid SAD,16,Nahuel Molina,Defender,AR
+Club Atlético de Madrid SAD,17,Dávid Hancko,Defender,SK
+Club Atlético de Madrid SAD,18,Marc Pubill,Defender,ES
+Club Atlético de Madrid SAD,19,Julián Alvarez,Forward,AR
+Club Atlético de Madrid SAD,20,Giuliano Simeone,Forward,AR
+Club Atlético de Madrid SAD,21,Obed Vargas,Midfielder,MX
+Club Atlético de Madrid SAD,22,Ademola Lookman,Forward,NG
+Club Atlético de Madrid SAD,23,Nico González,Forward,AR
+Club Atlético de Madrid SAD,24,Robin Le Normand,Defender,ES
+Club Atlético de Madrid SAD,26,Ilias Kostis,Defender,GR
+Club Atlético de Madrid SAD,27,Jano Monserrate,Midfielder,ES
+Club Atlético de Madrid SAD,28,Taufik Seidu Zanzi Awudu,Midfielder,ES
+Club Atlético de Madrid SAD,29,Rayane Belaid,Forward,ES
+Club Atlético de Madrid SAD,30,Dani Martinez,Defender,ES
+Club Atlético de Madrid SAD,31,Salvi Esquivel,Goalkeeper,ES
+Club Atlético de Madrid SAD,32,Javier Boñar,Defender,ES
+Club Atlético de Madrid SAD,33,Mario de Luis,Goalkeeper,ES
+Club Atlético de Madrid SAD,34,Julio Díaz,Defender,ES
+Club Atlético de Madrid SAD,36,Gerónimo Spina,Defender,AR
+Club Atlético de Madrid SAD,37,Iker Luque,Midfielder,ES
+Club Atlético de Madrid SAD,40,Aleksa Puric,Defender,RS
+Club Atlético de Madrid SAD,42,Javi Serrano,Midfielder,ES
+Club Atlético de Madrid SAD,45,Sergio Esteban,Forward,ES
+Club Atlético de Madrid SAD,47,Javier Morcillo,Midfielder,ES
+Club Atlético de Madrid SAD,51,Álvaro Moreno,Goalkeeper,ES
+Club Atlético de Madrid SAD,61,Miguel Llorente Cubo,Forward,ES
+Club Atlético de Madrid SAD,,Diego Simeone,Coach,AR
+Club Atlético de Madrid SAD,,Nelson Vivas,Assistant coach,AR
+Deportivo Alavés SAD,1,Antonio Sivera,Goalkeeper,ES
+Deportivo Alavés SAD,2,Facundo Garcés,Defender,MY
+Deportivo Alavés SAD,3,Youssef Enríquez,Defender,MA
+Deportivo Alavés SAD,4,Denis Suárez,Midfielder,ES
+Deportivo Alavés SAD,5,Jon Pacheco,Defender,ES
+Deportivo Alavés SAD,6,Ander Guevara,Midfielder,ES
+Deportivo Alavés SAD,7,Ángel Pérez,Defender,ES
+Deportivo Alavés SAD,8,Antonio Blanco,Midfielder,ES
+Deportivo Alavés SAD,9,Mariano Díaz,Forward,DO
+Deportivo Alavés SAD,10,Carles Aleñá,Midfielder,ES
+Deportivo Alavés SAD,11,Toni Martínez,Forward,ES
+Deportivo Alavés SAD,13,Raúl Fernández,Goalkeeper,ES
+Deportivo Alavés SAD,14,Nahuel Tenaglia,Defender,AR
+Deportivo Alavés SAD,15,Lucas Boyé,Forward,AR
+Deportivo Alavés SAD,16,Ville Koski,Defender,FI
+Deportivo Alavés SAD,17,Jonathan Castro Otto,Defender,ES
+Deportivo Alavés SAD,18,Jon Guridi,Midfielder,ES
+Deportivo Alavés SAD,19,Pablo Ibáñez,Midfielder,ES
+Deportivo Alavés SAD,20,Calebe Gonçalves Ferreira da Silva,Midfielder,BR
+Deportivo Alavés SAD,21,Abde Rebbach,Midfielder,DZ
+Deportivo Alavés SAD,22,Ibrahim Diabate,Forward,CI
+Deportivo Alavés SAD,23,Carlos Protesoni,Midfielder,UY
+Deportivo Alavés SAD,24,Victor Parada,Defender,ES
+Deportivo Alavés SAD,26,Álvaro García,Defender,ES
+Deportivo Alavés SAD,27,Egoitz Muñoz,Defender,ES
+Deportivo Alavés SAD,28,Lander Pinillos,Midfielder,ES
+Deportivo Alavés SAD,29,Diego Morcillo,Forward,ES
+Deportivo Alavés SAD,30,Carlos Ballestero,Defender,ES
+Deportivo Alavés SAD,31,Grégoire Swiderski,Goalkeeper,CA
+Deportivo Alavés SAD,32,Izei Hernandez,Midfielder,ES
+Deportivo Alavés SAD,33,Rúben Montero,Goalkeeper,ES
+Deportivo Alavés SAD,34,Aitor Mañas,Forward,ES
+Deportivo Alavés SAD,35,Xanet Oláiz,Defender,ES
+Deportivo Alavés SAD,36,Paco Sanz,Defender,ES
+Deportivo Alavés SAD,,Patricio Graff,Assistant coach,AR
+Deportivo Alavés SAD,,Enrique Sánchez Flores,Coach,ES
+Elche Club de Fútbol SAD,1,Matías Dituro,Goalkeeper,AR
+Elche Club de Fútbol SAD,3,Adrià Pedrosa,Defender,ES
+Elche Club de Fútbol SAD,5,Federico Redondo,Midfielder,AR
+Elche Club de Fútbol SAD,6,Pedro Bigas,Defender,ES
+Elche Club de Fútbol SAD,7,Yago Santiago,Midfielder,ES
+Elche Club de Fútbol SAD,8,Marc Aguado,Midfielder,ES
+Elche Club de Fútbol SAD,9,André Miguel Valente da Silva,Forward,PT
+Elche Club de Fútbol SAD,10,Rafa Mir,Forward,ES
+Elche Club de Fútbol SAD,11,Germán Valera,Midfielder,ES
+Elche Club de Fútbol SAD,12,Gonzalo Villar,Midfielder,ES
+Elche Club de Fútbol SAD,13,Iñaki Peña,Goalkeeper,ES
+Elche Club de Fútbol SAD,14,Aleix Febas,Midfielder,ES
+Elche Club de Fútbol SAD,15,José Antonio Morente Oliva,Midfielder,ES
+Elche Club de Fútbol SAD,16,Martim Carvalho Neto,Midfielder,PT
+Elche Club de Fútbol SAD,17,José Antonio Ferrández Pomares,Midfielder,ES
+Elche Club de Fútbol SAD,18,John Donald,Defender,ES
+Elche Club de Fútbol SAD,19,Grady Diangana,Midfielder,CD
+Elche Club de Fútbol SAD,20,Álvaro Rodríguez,Forward,UY
+Elche Club de Fútbol SAD,21,Léo Pétrot,Defender,FR
+Elche Club de Fútbol SAD,22,David Affengruber,Defender,AT
+Elche Club de Fútbol SAD,23,Victor Chust,Defender,ES
+Elche Club de Fútbol SAD,24,Lucas Cepeda,Forward,CL
+Elche Club de Fútbol SAD,26,Bema Sina,Defender,GH
+Elche Club de Fútbol SAD,27,Albert Niculaesei,Defender,RO
+Elche Club de Fútbol SAD,29,Daniel Ballesteros Fernández,Forward,ES
+Elche Club de Fútbol SAD,31,David Delgado,Defender,ES
+Elche Club de Fútbol SAD,32,Adam Boayar,Midfielder,MA
+Elche Club de Fútbol SAD,33,Pablo Felipe,Defender,ES
+Elche Club de Fútbol SAD,36,Nico Salvador,Defender,ES
+Elche Club de Fútbol SAD,37,Antonio Martínez,Midfielder,ES
+Elche Club de Fútbol SAD,38,Alejandro Sánchez Mantecón,Midfielder,ES
+Elche Club de Fútbol SAD,39,Héctor Fort,Defender,ES
+Elche Club de Fútbol SAD,42,Buba Sangaré,Defender,ES
+Elche Club de Fútbol SAD,43,Alex Herraiz,Defender,ES
+Elche Club de Fútbol SAD,45,Alejandro Iturbe,Goalkeeper,ES
+Elche Club de Fútbol SAD,46,Juan Piera,Forward,ES
+Elche Club de Fútbol SAD,,Jon Lopez,Assistant coach,ES
+Elche Club de Fútbol SAD,,Eder Sarabia,Coach,ES
+Fútbol Club Barcelona,2,João Pedro Cavaco Cancelo,Defender,PT
+Fútbol Club Barcelona,3,Alejandro Balde,Defender,ES
+Fútbol Club Barcelona,4,Ronald Araujo,Defender,UY
+Fútbol Club Barcelona,5,Pau Cubarsí,Defender,ES
+Fútbol Club Barcelona,6,Pablo Páez Gavira,Midfielder,ES
+Fútbol Club Barcelona,7,Ferran Torres,Midfielder,ES
+Fútbol Club Barcelona,8,Pedro González López,Midfielder,ES
+Fútbol Club Barcelona,9,Robert Lewandowski,Forward,PL
+Fútbol Club Barcelona,10,Lamine Yamal Nasraoui Ebana,Forward,ES
+Fútbol Club Barcelona,11,Raphael Dias Belloli,Forward,BR
+Fútbol Club Barcelona,13,Joan García,Goalkeeper,ES
+Fútbol Club Barcelona,14,Marcus Rashford,Forward,GB-ENG
+Fútbol Club Barcelona,15,Andreas Christensen,Defender,DK
+Fútbol Club Barcelona,16,Fermín López,Midfielder,ES
+Fútbol Club Barcelona,17,Marc Casadó,Midfielder,ES
+Fútbol Club Barcelona,18,Gerard Martín,Defender,ES
+Fútbol Club Barcelona,19,Roony Bardghji,Midfielder,SE
+Fútbol Club Barcelona,20,Dani Olmo,Midfielder,ES
+Fútbol Club Barcelona,21,Frenkie de Jong,Midfielder,NL
+Fútbol Club Barcelona,22,Marc Bernal,Midfielder,ES
+Fútbol Club Barcelona,23,Jules Koundé,Defender,FR
+Fútbol Club Barcelona,24,Eric García,Defender,ES
+Fútbol Club Barcelona,25,Wojciech Szczesny,Goalkeeper,PL
+Fútbol Club Barcelona,26,Jofre Torrents,Defender,ES
+Fútbol Club Barcelona,29,Toni Fernández,Forward,ES
+Fútbol Club Barcelona,30,Guille Fernández,Midfielder,ES
+Fútbol Club Barcelona,31,Diego Kochen,Goalkeeper,US
+Fútbol Club Barcelona,33,Eder Aller,Goalkeeper,ES
+Fútbol Club Barcelona,36,Álvaro Cortés,Defender,ES
+Fútbol Club Barcelona,37,Dani Rodríguez,Forward,ES
+Fútbol Club Barcelona,41,Juan Hernández,Midfielder,ES
+Fútbol Club Barcelona,42,Xavi Espart,Defender,ES
+Fútbol Club Barcelona,43,Tomás Marqués,Defender,ES
+Fútbol Club Barcelona,,Hansi Flick,Coach,DE
+Fútbol Club Barcelona,,Marcus Sorg,Assistant coach,DE
+Getafe Club de Fútbol SAD,1,Jirí Letácek,Goalkeeper,CZ
+Getafe Club de Fútbol SAD,2,Djené Dakonam,Defender,TG
+Getafe Club de Fútbol SAD,3,Abdel Abqar,Defender,MA
+Getafe Club de Fútbol SAD,5,Luis Milla,Midfielder,ES
+Getafe Club de Fútbol SAD,6,Mario Martín,Midfielder,ES
+Getafe Club de Fútbol SAD,7,Juan Miguel Jiménez López,Forward,ES
+Getafe Club de Fútbol SAD,8,Mauro Arambarri,Midfielder,UY
+Getafe Club de Fútbol SAD,9,Borja Mayoral,Forward,ES
+Getafe Club de Fútbol SAD,10,Martín Satriano,Forward,UY
+Getafe Club de Fútbol SAD,11,Abu Kamara,Midfielder,GB-ENG
+Getafe Club de Fútbol SAD,12,Allan Nyom,Defender,CM
+Getafe Club de Fútbol SAD,13,David Soria,Goalkeeper,ES
+Getafe Club de Fútbol SAD,14,Javi Muñoz,Midfielder,ES
+Getafe Club de Fútbol SAD,15,Sebastián Boselli,Defender,UY
+Getafe Club de Fútbol SAD,16,Diego Rico,Defender,ES
+Getafe Club de Fútbol SAD,17,Kiko Femenía,Defender,ES
+Getafe Club de Fútbol SAD,18,Alejandro San Cristóbal Sánchez,Forward,ES
+Getafe Club de Fútbol SAD,19,Luis Vázquez,Forward,AR
+Getafe Club de Fútbol SAD,20,Veljko Birmancevic,Forward,RS
+Getafe Club de Fútbol SAD,21,Juan Iglesias,Defender,ES
+Getafe Club de Fútbol SAD,22,Domingos de Sousa Coutinho Meneses Duarte,Defender,PT
+Getafe Club de Fútbol SAD,23,Adrián Liso,Midfielder,ES
+Getafe Club de Fútbol SAD,24,Zaid Romero,Defender,AR
+Getafe Club de Fútbol SAD,26,David Cordón Mancha,Defender,ES
+Getafe Club de Fútbol SAD,29,Mykyta Aleksandrov,Forward,UA
+Getafe Club de Fútbol SAD,30,Alberto Risco,Midfielder,ES
+Getafe Club de Fútbol SAD,31,Ismael Bekhoucha,Forward,MA
+Getafe Club de Fútbol SAD,32,Lucas Laso,Defender,ES
+Getafe Club de Fútbol SAD,33,Marc Vilaplana,Defender,ES
+Getafe Club de Fútbol SAD,34,Hugo Solozabal,Midfielder,ES
+Getafe Club de Fútbol SAD,35,Jorge Benito,Goalkeeper,ES
+Getafe Club de Fútbol SAD,37,José Luis Pérez del Amo,Forward,ES
+Getafe Club de Fútbol SAD,39,Yassin Tallal,Defender,MA
+Getafe Club de Fútbol SAD,41,Jorge Montes,Defender,ES
+Getafe Club de Fútbol SAD,42,Diego Ferrer,Goalkeeper,ES
+Getafe Club de Fútbol SAD,44,Adrián Riquelme,Midfielder,ES
+Getafe Club de Fútbol SAD,45,Alejandro Mestanza,Midfielder,ES
+Getafe Club de Fútbol SAD,46,Damián Cáceres,Midfielder,ES
+Getafe Club de Fútbol SAD,,Patri Moreno,Assistant coach,ES
+Getafe Club de Fútbol SAD,,José Bordalás,Coach,ES
+Girona Fútbol Club SAD,1,Rubén Blanco,Goalkeeper,ES
+Girona Fútbol Club SAD,2,Hugo Rincón,Defender,ES
+Girona Fútbol Club SAD,3,Joel Roca,Forward,ES
+Girona Fútbol Club SAD,4,Arnau Martínez,Defender,ES
+Girona Fútbol Club SAD,5,David López,Midfielder,ES
+Girona Fútbol Club SAD,6,Donny van de Beek,Forward,NL
+Girona Fútbol Club SAD,7,Cristhian Stuani,Forward,UY
+Girona Fútbol Club SAD,8,Fran Beltrán,Midfielder,ES
+Girona Fútbol Club SAD,9,Abel Ruiz,Forward,ES
+Girona Fútbol Club SAD,11,Thomas Lemar,Midfielder,FR
+Girona Fútbol Club SAD,12,Vitor de Oliveira Nunes dos Reis,Defender,BR
+Girona Fútbol Club SAD,13,Paulo Gazzaniga,Goalkeeper,AR
+Girona Fútbol Club SAD,14,Claudio Echeverri,Forward,AR
+Girona Fútbol Club SAD,15,Viktor Tsyhankov,Forward,UA
+Girona Fútbol Club SAD,16,Alejandro Francés,Defender,ES
+Girona Fútbol Club SAD,17,Daley Blind,Defender,NL
+Girona Fútbol Club SAD,18,Azzedine Ounahi,Midfielder,MA
+Girona Fútbol Club SAD,19,Vladyslav Vanat,Forward,UA
+Girona Fútbol Club SAD,20,Axel Witsel,Midfielder,BE
+Girona Fútbol Club SAD,21,Bryan Gil,Forward,ES
+Girona Fútbol Club SAD,22,Marc-André ter Stegen,Goalkeeper,DE
+Girona Fútbol Club SAD,23,Iván Martín,Midfielder,ES
+Girona Fútbol Club SAD,24,Álex Moreno,Forward,ES
+Girona Fútbol Club SAD,25,Vladyslav Krapyvtsov,Goalkeeper,UA
+Girona Fútbol Club SAD,27,Pol Arnau,Defender,ES
+Girona Fútbol Club SAD,28,Gibert Jordana,Defender,ES
+Girona Fútbol Club SAD,29,Lancinet Kourouma,Midfielder,GN
+Girona Fútbol Club SAD,30,Javier Sarasa,Midfielder,ES
+Girona Fútbol Club SAD,31,Antonio Salguero,Defender,ES
+Girona Fútbol Club SAD,32,Juan Arango,Forward,VE
+Girona Fútbol Club SAD,36,Ricard Artero,Midfielder,ES
+Girona Fútbol Club SAD,43,Aleksandar Andreev,Goalkeeper,BG
+Girona Fútbol Club SAD,44,Papa Dame Ba,Midfielder,SN
+Girona Fútbol Club SAD,,Salva Fúnez,Assistant coach,ES
+Girona Fútbol Club SAD,,Míchel Sánchez,Coach,ES
+Levante Unión Deportiva SAD,1,Pablo Campos,Goalkeeper,ES
+Levante Unión Deportiva SAD,2,Matías Moreno,Defender,AR
+Levante Unión Deportiva SAD,3,Alan Matturro,Defender,UY
+Levante Unión Deportiva SAD,4,Adrián de la Fuente,Defender,ES
+Levante Unión Deportiva SAD,5,Unai Elgezabal,Defender,ES
+Levante Unión Deportiva SAD,6,Diego Pampín,Defender,ES
+Levante Unión Deportiva SAD,7,Roger Brugué,Forward,ES
+Levante Unión Deportiva SAD,8,Jon Olasagasti,Midfielder,ES
+Levante Unión Deportiva SAD,9,Iván Romero,Forward,ES
+Levante Unión Deportiva SAD,10,Pablo Martínez,Midfielder,ES
+Levante Unión Deportiva SAD,11,José Luis Morales,Forward,ES
+Levante Unión Deportiva SAD,12,Unai Vencedor,Midfielder,ES
+Levante Unión Deportiva SAD,13,Mathew Ryan,Goalkeeper,AU
+Levante Unión Deportiva SAD,14,Ugo Raghouber,Midfielder,FR
+Levante Unión Deportiva SAD,16,Kervin Arriaga,Midfielder,HN
+Levante Unión Deportiva SAD,17,Víctor García,Defender,ES
+Levante Unión Deportiva SAD,18,Iker Losada,Midfielder,ES
+Levante Unión Deportiva SAD,19,Carlos Espí,Forward,ES
+Levante Unión Deportiva SAD,20,Oriol Rey,Midfielder,ES
+Levante Unión Deportiva SAD,21,Karl Etta Eyong,Forward,CM
+Levante Unión Deportiva SAD,22,Jeremy Toljan,Defender,DE
+Levante Unión Deportiva SAD,23,Manu Sánchez,Defender,ES
+Levante Unión Deportiva SAD,24,Carlos Álvarez,Midfielder,ES
+Levante Unión Deportiva SAD,26,Kareem Tunde,Midfielder,ES
+Levante Unión Deportiva SAD,27,Paco Cortés,Midfielder,ES
+Levante Unión Deportiva SAD,28,Martín Krug,Defender,PA
+Levante Unión Deportiva SAD,29,Nacho Pérez,Defender,ES
+Levante Unión Deportiva SAD,30,Pablo Rosón,Midfielder,ES
+Levante Unión Deportiva SAD,32,Álex Primo,Goalkeeper,ES
+Levante Unión Deportiva SAD,33,Joan Ruiz,Midfielder,ES
+Levante Unión Deportiva SAD,34,Cayetano Romero,Goalkeeper,ES
+Levante Unión Deportiva SAD,35,Huseini Nakoha,Defender,GH
+Levante Unión Deportiva SAD,37,Dani Cervera,Midfielder,ES
+Levante Unión Deportiva SAD,,Luís Manuel Ferreira de Castro,Coach,PT
+Levante Unión Deportiva SAD,,Carlos Garcia,Assistant coach,ES
+RCD Espanyol de Barcelona,1,Ángel Fortuño,Goalkeeper,ES
+RCD Espanyol de Barcelona,2,Rubén Sánchez,Midfielder,ES
+RCD Espanyol de Barcelona,4,Urko González de Zárate Quirós,Defender,ES
+RCD Espanyol de Barcelona,5,Fernando Calero,Defender,ES
+RCD Espanyol de Barcelona,6,Leandro Cabrera,Defender,UY
+RCD Espanyol de Barcelona,7,Javi Puado,Midfielder,ES
+RCD Espanyol de Barcelona,8,Edu Expósito,Midfielder,ES
+RCD Espanyol de Barcelona,9,Roberto Fernández,Forward,ES
+RCD Espanyol de Barcelona,10,Pol Lozano,Midfielder,ES
+RCD Espanyol de Barcelona,11,Pere Milla,Forward,ES
+RCD Espanyol de Barcelona,12,José Salinas,Defender,ES
+RCD Espanyol de Barcelona,13,Marko Dmitrovic,Goalkeeper,RS
+RCD Espanyol de Barcelona,14,Ramon Terrats,Midfielder,ES
+RCD Espanyol de Barcelona,15,Miguel Rubio,Defender,ES
+RCD Espanyol de Barcelona,16,Cyril Ngonge,Midfielder,BE
+RCD Espanyol de Barcelona,17,Jofre Carreras,Forward,ES
+RCD Espanyol de Barcelona,18,Charles Pickel,Midfielder,CD
+RCD Espanyol de Barcelona,19,Kike García,Forward,ES
+RCD Espanyol de Barcelona,20,Antoniu Roca,Midfielder,ES
+RCD Espanyol de Barcelona,22,Carlos Romero,Defender,ES
+RCD Espanyol de Barcelona,23,Omar El Hilali,Defender,MA
+RCD Espanyol de Barcelona,24,Tyrhys Dolan,Forward,GB-ENG
+RCD Espanyol de Barcelona,26,Miguel Londoño,Midfielder,ES
+RCD Espanyol de Barcelona,27,Adama Timera,Defender,FR
+RCD Espanyol de Barcelona,28,Ferran Gómez Gómez,Midfielder,ES
+RCD Espanyol de Barcelona,30,Pol Tristán,Goalkeeper,ES
+RCD Espanyol de Barcelona,31,Llorenç Serred Martínez,Goalkeeper,ES
+RCD Espanyol de Barcelona,32,Lluc Castell Solé,Forward,ES
+RCD Espanyol de Barcelona,33,Alex Almansa,Defender,ES
+RCD Espanyol de Barcelona,38,Clemens Riedel,Defender,DE
+RCD Espanyol de Barcelona,,José Manuel González Álvarez,Coach,ES
+RCD Espanyol de Barcelona,,Gerard Garrido,Assistant coach,ES
+Rayo Vallecano de Madrid SAD,1,Dani Cárdenas,Goalkeeper,ES
+Rayo Vallecano de Madrid SAD,2,Andrei Ratiu,Defender,RO
+Rayo Vallecano de Madrid SAD,3,Pep Chavarría,Defender,ES
+Rayo Vallecano de Madrid SAD,4,Pedro Díaz,Midfielder,ES
+Rayo Vallecano de Madrid SAD,5,Luiz Felipe Ramos Marchi,Defender,IT
+Rayo Vallecano de Madrid SAD,6,Pathé Ciss,Midfielder,SN
+Rayo Vallecano de Madrid SAD,7,Isi Palazón,Midfielder,ES
+Rayo Vallecano de Madrid SAD,8,Óscar Trejo,Forward,AR
+Rayo Vallecano de Madrid SAD,9,Alexandre Zurawski,Forward,BR
+Rayo Vallecano de Madrid SAD,10,Sergio Camello,Forward,ES
+Rayo Vallecano de Madrid SAD,11,Randy Nteka,Midfielder,AO
+Rayo Vallecano de Madrid SAD,12,Ilias Akhomach,Forward,MA
+Rayo Vallecano de Madrid SAD,13,Augusto Batalla,Goalkeeper,AR
+Rayo Vallecano de Madrid SAD,14,Carlos Martín,Midfielder,ES
+Rayo Vallecano de Madrid SAD,15,Gerard Gumbau,Midfielder,ES
+Rayo Vallecano de Madrid SAD,16,Abdul Mumin,Defender,GH
+Rayo Vallecano de Madrid SAD,17,Unai López,Midfielder,ES
+Rayo Vallecano de Madrid SAD,18,Álvaro García,Midfielder,ES
+Rayo Vallecano de Madrid SAD,19,Jorge de Frutos,Midfielder,ES
+Rayo Vallecano de Madrid SAD,20,Iván Balliu,Defender,AL
+Rayo Vallecano de Madrid SAD,21,Fran Pérez,Midfielder,ES
+Rayo Vallecano de Madrid SAD,22,Luis Alfonso Espino García,Defender,UY
+Rayo Vallecano de Madrid SAD,23,Óscar Valentín,Midfielder,ES
+Rayo Vallecano de Madrid SAD,24,Florian Lejeune,Defender,FR
+Rayo Vallecano de Madrid SAD,26,Marco de Las Sias,Defender,ES
+Rayo Vallecano de Madrid SAD,28,Samu Becerra,Midfielder,ES
+Rayo Vallecano de Madrid SAD,30,Juan Pedro Gil Bueno,Goalkeeper,ES
+Rayo Vallecano de Madrid SAD,32,Nobel Mendy,Defender,SN
+Rayo Vallecano de Madrid SAD,33,Jozhua Vertrouwd,Defender,NL
+Rayo Vallecano de Madrid SAD,40,Adrián Molina,Goalkeeper,ES
+Rayo Vallecano de Madrid SAD,,Iñigo Pérez,Coach,ES
+Rayo Vallecano de Madrid SAD,,Javier Mallo,Assistant coach,ES
+Real Betis Balompié SAD,1,Álvaro Valles,Goalkeeper,ES
+Real Betis Balompié SAD,2,Héctor Bellerín,Defender,ES
+Real Betis Balompié SAD,3,Diego Llorente,Defender,ES
+Real Betis Balompié SAD,4,Natan Bernardo de Souza,Defender,BR
+Real Betis Balompié SAD,5,Marc Bartra,Defender,ES
+Real Betis Balompié SAD,6,Sergi Altimira,Midfielder,ES
+Real Betis Balompié SAD,7,Antony Matheus dos Santos,Forward,BR
+Real Betis Balompié SAD,8,Pablo Fornals,Midfielder,ES
+Real Betis Balompié SAD,9,Chimy Ávila,Forward,AR
+Real Betis Balompié SAD,10,Abde Ezzalzouli,Forward,MA
+Real Betis Balompié SAD,11,Cédric Bakambu,Forward,CD
+Real Betis Balompié SAD,12,Ricardo Rodríguez,Defender,CH
+Real Betis Balompié SAD,13,Adrián San Miguel del Castillo,Goalkeeper,ES
+Real Betis Balompié SAD,14,Sofyan Amrabat,Midfielder,MA
+Real Betis Balompié SAD,15,Álvaro Fidalgo,Midfielder,MX
+Real Betis Balompié SAD,16,Valentín Gómez,Defender,AR
+Real Betis Balompié SAD,17,Rodrigo Riquelme,Midfielder,ES
+Real Betis Balompié SAD,18,Nelson Deossa,Midfielder,CO
+Real Betis Balompié SAD,19,Cucho Hernández,Forward,CO
+Real Betis Balompié SAD,20,Giovani Lo Celso,Midfielder,AR
+Real Betis Balompié SAD,21,Marc Roca,Midfielder,ES
+Real Betis Balompié SAD,22,Francisco Román Alarcón Suárez,Midfielder,ES
+Real Betis Balompié SAD,23,Junior Firpo,Defender,DO
+Real Betis Balompié SAD,24,Aitor Ruibal,Forward,ES
+Real Betis Balompié SAD,25,Pau López,Goalkeeper,ES
+Real Betis Balompié SAD,27,José Antonio Morante Antúnez,Forward,ES
+Real Betis Balompié SAD,29,Rodrigo Marina,Forward,ES
+Real Betis Balompié SAD,30,Germán García,Goalkeeper,ES
+Real Betis Balompié SAD,33,Carlos de Roa,Defender,ES
+Real Betis Balompié SAD,36,Darling Bladi,Defender,FR
+Real Betis Balompié SAD,37,Dani Pérez,Midfielder,ES
+Real Betis Balompié SAD,40,Ángel Ortiz,Midfielder,ES
+Real Betis Balompié SAD,41,Manu González,Goalkeeper,ES
+Real Betis Balompié SAD,50,Iván Corralejo,Midfielder,ES
+Real Betis Balompié SAD,52,Pablo García,Forward,ES
+Real Betis Balompié SAD,,Manuel Pellegrini,Coach,CL
+Real Betis Balompié SAD,,Ruben Cousillas,Assistant coach,AR
+Real Club Celta de Vigo SAD,1,Iván Villar,Goalkeeper,ES
+Real Club Celta de Vigo SAD,2,Carl Starfelt,Defender,SE
+Real Club Celta de Vigo SAD,3,Óscar Mingueza,Defender,ES
+Real Club Celta de Vigo SAD,4,Joseph Aidoo,Defender,GH
+Real Club Celta de Vigo SAD,5,Sergio Carreira,Defender,ES
+Real Club Celta de Vigo SAD,6,Moriba Kourouma Kourouma,Midfielder,GN
+Real Club Celta de Vigo SAD,7,Borja Iglesias,Forward,ES
+Real Club Celta de Vigo SAD,8,Fer López,Forward,ES
+Real Club Celta de Vigo SAD,9,Ferran Jutglà,Forward,ES
+Real Club Celta de Vigo SAD,10,Iago Aspas,Forward,ES
+Real Club Celta de Vigo SAD,11,Franco Cervi,Forward,AR
+Real Club Celta de Vigo SAD,12,Manu Fernández,Defender,ES
+Real Club Celta de Vigo SAD,13,Ionut Radu,Goalkeeper,RO
+Real Club Celta de Vigo SAD,14,Álvaro Núñez,Defender,ES
+Real Club Celta de Vigo SAD,15,Matías Vecino,Midfielder,UY
+Real Club Celta de Vigo SAD,16,Miguel Román,Midfielder,ES
+Real Club Celta de Vigo SAD,17,Javi Rueda,Defender,ES
+Real Club Celta de Vigo SAD,18,Pablo Durán,Forward,ES
+Real Club Celta de Vigo SAD,19,Williot Swedberg,Midfielder,SE
+Real Club Celta de Vigo SAD,20,Marcos Alonso,Defender,ES
+Real Club Celta de Vigo SAD,21,Mihailo Ristic,Defender,RS
+Real Club Celta de Vigo SAD,22,Hugo Sotelo,Midfielder,ES
+Real Club Celta de Vigo SAD,23,Hugo Álvarez,Midfielder,ES
+Real Club Celta de Vigo SAD,24,Carlos Domínguez,Defender,ES
+Real Club Celta de Vigo SAD,25,Marc Vidal,Goalkeeper,ES
+Real Club Celta de Vigo SAD,28,Ángel Arcos,Midfielder,ES
+Real Club Celta de Vigo SAD,29,Yoel Lago,Defender,ES
+Real Club Celta de Vigo SAD,30,Hugo González,Midfielder,ES
+Real Club Celta de Vigo SAD,31,Pablo Meixús,Defender,ES
+Real Club Celta de Vigo SAD,32,Javi Rodríguez,Defender,ES
+Real Club Celta de Vigo SAD,33,Óscar Marcos,Forward,ES
+Real Club Celta de Vigo SAD,36,Andrés Antañón,Midfielder,ES
+Real Club Celta de Vigo SAD,38,Hugo Burcio,Midfielder,ES
+Real Club Celta de Vigo SAD,39,Jones El Abdellaoui,Forward,MA
+Real Club Celta de Vigo SAD,,Claudio Giráldez,Coach,ES
+Real Club Celta de Vigo SAD,,Rober Fernández,Assistant coach,ES
+Real Club Deportivo Mallorca SAD,1,Leo Román,Goalkeeper,ES
+Real Club Deportivo Mallorca SAD,2,Mateu Morey,Defender,ES
+Real Club Deportivo Mallorca SAD,3,Antonio Latorre Grueso,Defender,ES
+Real Club Deportivo Mallorca SAD,4,Marash Kumbulla,Midfielder,AL
+Real Club Deportivo Mallorca SAD,5,Omar Mascarell,Midfielder,GQ
+Real Club Deportivo Mallorca SAD,6,Antonio Sánchez,Midfielder,ES
+Real Club Deportivo Mallorca SAD,7,Vedat Muriqi,Forward,XK
+Real Club Deportivo Mallorca SAD,8,Manu Morlanes,Midfielder,ES
+Real Club Deportivo Mallorca SAD,9,Abdón Prats,Forward,ES
+Real Club Deportivo Mallorca SAD,10,Sergi Darder,Midfielder,ES
+Real Club Deportivo Mallorca SAD,11,Takuma Asano,Forward,JP
+Real Club Deportivo Mallorca SAD,12,Samuel de Almeida Costa,Midfielder,PT
+Real Club Deportivo Mallorca SAD,13,Lucas Bergström,Goalkeeper,FI
+Real Club Deportivo Mallorca SAD,15,Zito André Sebastião Luvumbo,Forward,AO
+Real Club Deportivo Mallorca SAD,17,Jan Virgili,Forward,ES
+Real Club Deportivo Mallorca SAD,18,Mateo Joseph,Forward,ES
+Real Club Deportivo Mallorca SAD,19,Javi Llabrés,Forward,ES
+Real Club Deportivo Mallorca SAD,20,Pablo Torre,Midfielder,ES
+Real Club Deportivo Mallorca SAD,21,Antonio Raíllo,Defender,ES
+Real Club Deportivo Mallorca SAD,22,Johan Mojica,Midfielder,CO
+Real Club Deportivo Mallorca SAD,23,Pablo Maffeo,Defender,AR
+Real Club Deportivo Mallorca SAD,24,Martin Valjent,Defender,SK
+Real Club Deportivo Mallorca SAD,25,Iván Cuéllar Sacristán,Goalkeeper,ES
+Real Club Deportivo Mallorca SAD,26,Iliesse Salhi,Defender,FR
+Real Club Deportivo Mallorca SAD,27,David López,Defender,ES
+Real Club Deportivo Mallorca SAD,28,Cesc Riba,Midfielder,ES
+Real Club Deportivo Mallorca SAD,29,Luis Orejuela,Defender,ES
+Real Club Deportivo Mallorca SAD,30,Justin Kalumba,Forward,FR
+Real Club Deportivo Mallorca SAD,32,Leo Sánchez,Defender,ES
+Real Club Deportivo Mallorca SAD,34,Javier Olaizola,Defender,ES
+Real Club Deportivo Mallorca SAD,38,Nil Torreguitart,Goalkeeper,ES
+Real Club Deportivo Mallorca SAD,39,Jandro García,Midfielder,ES
+Real Club Deportivo Mallorca SAD,41,Jan Salas,Midfielder,ES
+Real Club Deportivo Mallorca SAD,42,Rares Vlad,Goalkeeper,RO
+Real Club Deportivo Mallorca SAD,44,Miguel Calatayud,Defender,ES
+Real Club Deportivo Mallorca SAD,,Martín Demichelis,Coach,AR
+Real Club Deportivo Mallorca SAD,,Diego Raimondi,Assistant coach,IT
+Real Madrid Club de Fútbol,1,Thibaut Courtois,Goalkeeper,BE
+Real Madrid Club de Fútbol,2,Dani Carvajal,Defender,ES
+Real Madrid Club de Fútbol,3,Éder Gabriel Militão Pinheiro,Defender,BR
+Real Madrid Club de Fútbol,4,David Alaba,Defender,AT
+Real Madrid Club de Fútbol,5,Jude Bellingham,Midfielder,GB-ENG
+Real Madrid Club de Fútbol,6,Eduardo Camavinga,Midfielder,FR
+Real Madrid Club de Fútbol,7,Vinícius José Paixão de Oliveira Júnior,Forward,BR
+Real Madrid Club de Fútbol,8,Federico Valverde,Midfielder,UY
+Real Madrid Club de Fútbol,10,Kylian Mbappé,Forward,FR
+Real Madrid Club de Fútbol,11,Rodrygo Silva de Goes,Forward,BR
+Real Madrid Club de Fútbol,12,Trent Alexander-Arnold,Defender,GB-ENG
+Real Madrid Club de Fútbol,13,Andrii Lunin,Goalkeeper,UA
+Real Madrid Club de Fútbol,14,Aurélien Tchouaméni,Midfielder,FR
+Real Madrid Club de Fútbol,15,Arda Güler,Midfielder,TR
+Real Madrid Club de Fútbol,16,Gonzalo García,Forward,ES
+Real Madrid Club de Fútbol,17,Raúl Asencio,Defender,ES
+Real Madrid Club de Fútbol,18,Álvaro Carreras,Defender,ES
+Real Madrid Club de Fútbol,19,Dani Ceballos,Midfielder,ES
+Real Madrid Club de Fútbol,20,Fran García,Defender,ES
+Real Madrid Club de Fútbol,21,Brahim Díaz,Midfielder,MA
+Real Madrid Club de Fútbol,22,Antonio Rüdiger,Defender,DE
+Real Madrid Club de Fútbol,23,Ferland Mendy,Defender,FR
+Real Madrid Club de Fútbol,24,Dean Huijsen,Defender,ES
+Real Madrid Club de Fútbol,26,Fran González,Goalkeeper,ES
+Real Madrid Club de Fútbol,27,Diego Aguado,Defender,ES
+Real Madrid Club de Fútbol,28,Jorge Cestero,Midfielder,ES
+Real Madrid Club de Fútbol,29,Javier Navarro,Goalkeeper,ES
+Real Madrid Club de Fútbol,30,Franco Mastantuono,Midfielder,AR
+Real Madrid Club de Fútbol,32,Jesús Fortea,Defender,ES
+Real Madrid Club de Fútbol,33,Pol Fortuny,Midfielder,ES
+Real Madrid Club de Fútbol,35,David Jiménez,Defender,ES
+Real Madrid Club de Fútbol,36,Joan Martínez,Defender,ES
+Real Madrid Club de Fútbol,37,Manuel Ángel,Midfielder,ES
+Real Madrid Club de Fútbol,38,César Palacios,Midfielder,ES
+Real Madrid Club de Fútbol,40,Víctor Valdepeñas Talavera,Defender,ES
+Real Madrid Club de Fútbol,42,Daniel Yáñez,Forward,ES
+Real Madrid Club de Fútbol,43,Sergio Mestre,Goalkeeper,ES
+Real Madrid Club de Fútbol,45,Thiago Pitarch,Midfielder,ES
+Real Madrid Club de Fútbol,46,Álvaro Leiva,Midfielder,ES
+Real Madrid Club de Fútbol,47,Daniel Mesonero Miguel,Midfielder,ES
+Real Madrid Club de Fútbol,48,Lamini Fati,Defender,ES
+Real Madrid Club de Fútbol,,Álvaro Arbeloa,Coach,ES
+Real Madrid Club de Fútbol,,Julián Carmona,Assistant coach,ES
+Real Oviedo SAD,1,Horatiu Moldovan,Goalkeeper,RO
+Real Oviedo SAD,2,Eric Bailly,Defender,CI
+Real Oviedo SAD,3,Rahim Alhassane,Defender,NE
+Real Oviedo SAD,4,David Costas,Defender,ES
+Real Oviedo SAD,5,Alberto Reina,Midfielder,ES
+Real Oviedo SAD,6,Kwasi Sibo,Midfielder,GH
+Real Oviedo SAD,7,Ilyas Chaira,Midfielder,MA
+Real Oviedo SAD,8,Santi Cazorla,Midfielder,ES
+Real Oviedo SAD,9,Federico Viñas,Forward,UY
+Real Oviedo SAD,10,Haissem Hassan,Midfielder,EG
+Real Oviedo SAD,11,Santiago Colombatto,Midfielder,AR
+Real Oviedo SAD,12,Dani Calvo,Defender,ES
+Real Oviedo SAD,13,Aarón Escandell,Goalkeeper,ES
+Real Oviedo SAD,14,Ovie Ejaria,Midfielder,GB-ENG
+Real Oviedo SAD,15,Thiago Fernández,Midfielder,AR
+Real Oviedo SAD,16,David Mota Veiga Teixeira do Carmo,Defender,AO
+Real Oviedo SAD,17,Thiago Borbas,Forward,UY
+Real Oviedo SAD,19,Álex Forés,Forward,ES
+Real Oviedo SAD,20,Leander Dendoncker,Midfielder,BE
+Real Oviedo SAD,21,Luka Ilic,Midfielder,RS
+Real Oviedo SAD,22,Nacho Vidal,Defender,ES
+Real Oviedo SAD,23,Nicolás Fonseca,Midfielder,UY
+Real Oviedo SAD,24,Lucas Ahijado,Midfielder,ES
+Real Oviedo SAD,25,Javi López,Defender,ES
+Real Oviedo SAD,26,Miguel Narváez,Goalkeeper,ES
+Real Oviedo SAD,27,Pablo Agudín,Forward,ES
+Real Oviedo SAD,28,Lamine Gueye,Forward,SN
+Real Oviedo SAD,29,Omar Falah,Defender,ES
+Real Oviedo SAD,30,Marco Esteban,Defender,ES
+Real Oviedo SAD,31,José Luis Pereda López,Midfielder,ES
+Real Oviedo SAD,32,Diego Menéndez,Midfielder,ES
+Real Oviedo SAD,33,Diego Espinosa,Defender,ES
+Real Oviedo SAD,34,Adri Fernández,Defender,ES
+Real Oviedo SAD,,Guillermo Almada,Coach,UY
+Real Oviedo SAD,,Darwin Quintana,Assistant coach,UY
+Real Sociedad de Fútbol SAD,1,Álex Remiro,Goalkeeper,ES
+Real Sociedad de Fútbol SAD,2,Jon Aramburu,Defender,VE
+Real Sociedad de Fútbol SAD,3,Aihen Muñoz,Defender,ES
+Real Sociedad de Fútbol SAD,4,Jon Gorrotxategi,Midfielder,ES
+Real Sociedad de Fútbol SAD,5,Igor Zubeldia,Midfielder,ES
+Real Sociedad de Fútbol SAD,6,Aritz Elustondo,Defender,ES
+Real Sociedad de Fútbol SAD,7,Ander Barrenetxea,Forward,ES
+Real Sociedad de Fútbol SAD,8,Beñat Turrientes,Midfielder,ES
+Real Sociedad de Fútbol SAD,9,Orri Óskarsson,Forward,IS
+Real Sociedad de Fútbol SAD,10,Mikel Oyarzabal,Forward,ES
+Real Sociedad de Fútbol SAD,11,Gonçalo Manuel Ganchinho Guedes,Midfielder,PT
+Real Sociedad de Fútbol SAD,12,Yangel Herrera,Midfielder,VE
+Real Sociedad de Fútbol SAD,13,Unai Marrero,Goalkeeper,ES
+Real Sociedad de Fútbol SAD,14,Takefusa Kubo,Midfielder,JP
+Real Sociedad de Fútbol SAD,15,Pablo Marín,Midfielder,ES
+Real Sociedad de Fútbol SAD,16,Duje Caleta-Car,Defender,HR
+Real Sociedad de Fútbol SAD,17,Sergio Gómez,Forward,ES
+Real Sociedad de Fútbol SAD,18,Carlos Soler,Midfielder,ES
+Real Sociedad de Fútbol SAD,19,Jon Karrikaburu,Forward,ES
+Real Sociedad de Fútbol SAD,20,Álvaro Odriozola,Defender,ES
+Real Sociedad de Fútbol SAD,21,Arsen Zakharyan,Midfielder,RU
+Real Sociedad de Fútbol SAD,22,Wesley Gassova Ribeiro Teixeira,Midfielder,BR
+Real Sociedad de Fútbol SAD,23,Brais Méndez,Midfielder,ES
+Real Sociedad de Fútbol SAD,24,Luka Sucic,Midfielder,HR
+Real Sociedad de Fútbol SAD,26,Daniel Díaz,Midfielder,ES
+Real Sociedad de Fútbol SAD,31,Jon Martín,Defender,ES
+Real Sociedad de Fútbol SAD,32,Aitor Fraga,Goalkeeper,ES
+Real Sociedad de Fútbol SAD,34,Arkaitz Mariezkurrena,Forward,ES
+Real Sociedad de Fútbol SAD,36,Alex Lebarbier,Defender,FR
+Real Sociedad de Fútbol SAD,38,Luken Beitia,Defender,ES
+Real Sociedad de Fútbol SAD,40,Alex Marchal,Midfielder,ES
+Real Sociedad de Fútbol SAD,41,Theo Folgado,Goalkeeper,ES
+Real Sociedad de Fútbol SAD,42,Gorka Carrera,Forward,ES
+Real Sociedad de Fútbol SAD,43,Tomás Carbonell,Midfielder,ES
+Real Sociedad de Fútbol SAD,44,Lander Astiazarán,Midfielder,ES
+Real Sociedad de Fútbol SAD,45,Kazunari Kita,Defender,JP
+Real Sociedad de Fútbol SAD,46,Ibai Aguirre,Midfielder,ES
+Real Sociedad de Fútbol SAD,47,Job Ochieng,Midfielder,KE
+Real Sociedad de Fútbol SAD,,Pellegrino Matarazzo,Coach,US
+Real Sociedad de Fútbol SAD,,John Maisano,Assistant coach,AU
+Sevilla Fútbol Club SAD,1,Odysseas Vlachodimos,Goalkeeper,GR
+Sevilla Fútbol Club SAD,2,José Ángel Carmona,Defender,ES
+Sevilla Fútbol Club SAD,3,César Azpilicueta,Defender,ES
+Sevilla Fútbol Club SAD,4,Kike Salas,Defender,ES
+Sevilla Fútbol Club SAD,5,Tanguy Nianzou,Defender,FR
+Sevilla Fútbol Club SAD,6,Nemanja Gudelj,Midfielder,RS
+Sevilla Fútbol Club SAD,7,Isaac Romero,Forward,ES
+Sevilla Fútbol Club SAD,8,Joan Jordán,Midfielder,ES
+Sevilla Fútbol Club SAD,9,Akor Adams,Forward,NG
+Sevilla Fútbol Club SAD,10,Alexis Sánchez,Forward,CL
+Sevilla Fútbol Club SAD,11,Rubén Vargas,Forward,CH
+Sevilla Fútbol Club SAD,12,Gabriel Suazo,Defender,CL
+Sevilla Fútbol Club SAD,13,Ørjan Nyland,Goalkeeper,NO
+Sevilla Fútbol Club SAD,14,Gerard Fernández Castellano,Forward,ES
+Sevilla Fútbol Club SAD,15,Fábio Rafael Rodrigues Cardoso,Defender,PT
+Sevilla Fútbol Club SAD,16,Juanlu Sánchez,Midfielder,ES
+Sevilla Fútbol Club SAD,17,Neal Maupay,Forward,FR
+Sevilla Fútbol Club SAD,18,Lucien Agoumé,Midfielder,FR
+Sevilla Fútbol Club SAD,19,Batista Mendy,Midfielder,FR
+Sevilla Fútbol Club SAD,20,Djibril Sow,Midfielder,CH
+Sevilla Fútbol Club SAD,21,Chidera Ejuke,Forward,NG
+Sevilla Fútbol Club SAD,22,Federico Gattoni,Defender,AR
+Sevilla Fútbol Club SAD,23,Marcos do Nascimento Teixeira,Defender,BR
+Sevilla Fútbol Club SAD,24,Adnan Januzaj,Midfielder,BE
+Sevilla Fútbol Club SAD,26,Álex Costa,Forward,ES
+Sevilla Fútbol Club SAD,28,Manu Bueno,Midfielder,ES
+Sevilla Fútbol Club SAD,29,Miguel Sierra,Forward,ES
+Sevilla Fútbol Club SAD,31,Alberto Flores,Goalkeeper,ES
+Sevilla Fútbol Club SAD,32,Andrés Castrín,Defender,ES
+Sevilla Fútbol Club SAD,33,Rafael Romero,Goalkeeper,ES
+Sevilla Fútbol Club SAD,36,Joaquín Martínez Gauna,Defender,ES
+Sevilla Fútbol Club SAD,38,Nico Guillén,Midfielder,ES
+Sevilla Fútbol Club SAD,39,Edu Altozano,Midfielder,ES
+Sevilla Fútbol Club SAD,40,Lorenzo Luchino,Goalkeeper,AR
+Sevilla Fútbol Club SAD,41,Iker Ortín,Defender,ES
+Sevilla Fútbol Club SAD,,Luis García,Coach,ES
+Sevilla Fútbol Club SAD,,Pedro Rostoll,Assistant coach,ES
+Valencia Club de Fútbol SAD,1,Stole Dimitrievski,Goalkeeper,MK
+Valencia Club de Fútbol SAD,2,Guido Rodríguez,Midfielder,AR
+Valencia Club de Fútbol SAD,3,José Manuel Arias Copete,Defender,ES
+Valencia Club de Fútbol SAD,4,Unai Núñez,Defender,ES
+Valencia Club de Fútbol SAD,5,César Tárrega,Defender,ES
+Valencia Club de Fútbol SAD,6,Umar Sadiq,Forward,NG
+Valencia Club de Fútbol SAD,7,Arnaut Danjuma,Midfielder,NL
+Valencia Club de Fútbol SAD,8,Javi Guerra,Midfielder,ES
+Valencia Club de Fútbol SAD,9,Hugo Duro,Forward,ES
+Valencia Club de Fútbol SAD,10,Domingos André Ribeiro Almeida,Midfielder,PT
+Valencia Club de Fútbol SAD,11,Luis Rioja,Midfielder,ES
+Valencia Club de Fútbol SAD,12,Thierry Rendall Correia,Defender,PT
+Valencia Club de Fútbol SAD,13,Cristian Rivero,Goalkeeper,ES
+Valencia Club de Fútbol SAD,14,José Gayà,Defender,ES
+Valencia Club de Fútbol SAD,15,Lucas Beltrán,Forward,AR
+Valencia Club de Fútbol SAD,16,Diego López,Forward,ES
+Valencia Club de Fútbol SAD,17,Largie Ramazani,Forward,BE
+Valencia Club de Fútbol SAD,18,José Luis García Vayá,Midfielder,ES
+Valencia Club de Fútbol SAD,19,Dani Raba,Forward,ES
+Valencia Club de Fútbol SAD,20,Renzo Saravia,Defender,AR
+Valencia Club de Fútbol SAD,21,Jesús Vázquez,Defender,ES
+Valencia Club de Fútbol SAD,22,Baptiste Santamaría,Midfielder,FR
+Valencia Club de Fútbol SAD,23,Filip Ugrinic,Midfielder,CH
+Valencia Club de Fútbol SAD,24,Eray Cömert,Defender,CH
+Valencia Club de Fútbol SAD,25,Julen Agirrezabala,Goalkeeper,ES
+Valencia Club de Fútbol SAD,26,Rubén Iranzo,Defender,ES
+Valencia Club de Fútbol SAD,27,David Otorbi,Forward,ES
+Valencia Club de Fútbol SAD,28,Vicent Abril,Goalkeeper,ES
+Valencia Club de Fútbol SAD,29,Lucas Núñez,Midfielder,ES
+Valencia Club de Fútbol SAD,32,Alejandro Panach Olmo,Defender,ES
+Valencia Club de Fútbol SAD,36,Marcos Navarro,Defender,ES
+Valencia Club de Fútbol SAD,37,Aimar Blázquez,Forward,ES
+Valencia Club de Fútbol SAD,38,Marc Jurado,Defender,ES
+Valencia Club de Fútbol SAD,40,Joel Fontanet,Defender,ES
+Valencia Club de Fútbol SAD,41,Pere García,Goalkeeper,ES
+Valencia Club de Fútbol SAD,42,Aaron Mayol,Midfielder,ES
+Valencia Club de Fútbol SAD,,Carlos Corberán,Coach,ES
+Valencia Club de Fútbol SAD,,Jorge Alarcón,Assistant coach,ES
+Villarreal Club de Fútbol SAD,1,Luiz Lúcio Reis Júnior,Goalkeeper,BR
+Villarreal Club de Fútbol SAD,2,Logan Evans Costa,Defender,CV
+Villarreal Club de Fútbol SAD,3,Alexander Freeman,Defender,US
+Villarreal Club de Fútbol SAD,4,Rafa Marín,Defender,ES
+Villarreal Club de Fútbol SAD,5,Willy Kambwala,Defender,FR
+Villarreal Club de Fútbol SAD,6,Pau Navarro,Defender,ES
+Villarreal Club de Fútbol SAD,7,Gerard Moreno,Forward,ES
+Villarreal Club de Fútbol SAD,8,Juan Foyth,Defender,AR
+Villarreal Club de Fútbol SAD,9,Georges Mikautadze,Forward,GE
+Villarreal Club de Fútbol SAD,10,Dani Parejo,Midfielder,ES
+Villarreal Club de Fútbol SAD,11,Alfon González,Forward,ES
+Villarreal Club de Fútbol SAD,12,Renato Palma Veiga,Defender,PT
+Villarreal Club de Fútbol SAD,13,Diego Conde,Goalkeeper,ES
+Villarreal Club de Fútbol SAD,14,Santi Comesaña,Midfielder,ES
+Villarreal Club de Fútbol SAD,15,Santiago Mouriño,Defender,UY
+Villarreal Club de Fútbol SAD,16,Thomas Partey,Midfielder,GH
+Villarreal Club de Fútbol SAD,17,Tajon Buchanan,Midfielder,CA
+Villarreal Club de Fútbol SAD,18,Pape Gueye,Midfielder,SN
+Villarreal Club de Fútbol SAD,19,Nicolas Pépé,Midfielder,CI
+Villarreal Club de Fútbol SAD,20,Alberto Moleiro,Midfielder,ES
+Villarreal Club de Fútbol SAD,21,Tani Oluwaseyi,Forward,CA
+Villarreal Club de Fútbol SAD,22,Ayoze Pérez,Forward,ES
+Villarreal Club de Fútbol SAD,23,Sergi Cardona,Defender,ES
+Villarreal Club de Fútbol SAD,24,Alfonso Pedraza,Defender,ES
+Villarreal Club de Fútbol SAD,25,Arnau Tenas,Goalkeeper,ES
+Villarreal Club de Fútbol SAD,27,Jean Valou,Defender,CI
+Villarreal Club de Fútbol SAD,28,Mahamoud Barry,Midfielder,ML
+Villarreal Club de Fútbol SAD,29,Ismael Sierra,Defender,ES
+Villarreal Club de Fútbol SAD,30,Daniel Budesca,Defender,ES
+Villarreal Club de Fútbol SAD,31,Rubén Gómez,Goalkeeper,ES
+Villarreal Club de Fútbol SAD,32,Hugo Lopez,Midfielder,ES
+Villarreal Club de Fútbol SAD,33,Pau Cabanes,Forward,ES
+Villarreal Club de Fútbol SAD,37,Carlos Macià,Midfielder,ES
+Villarreal Club de Fútbol SAD,38,Alassane Diatta,Midfielder,SN
+Villarreal Club de Fútbol SAD,40,José Ángel Gaitán Diaz,Midfielder,ES
+Villarreal Club de Fútbol SAD,,Rubén Uría,Assistant coach,ES
+Villarreal Club de Fútbol SAD,,Marcelino García,Coach,ES
