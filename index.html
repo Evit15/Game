@@ -38,6 +38,11 @@
       white-space:nowrap;
     }
 
+    th{
+      cursor:pointer;
+      user-select:none;
+    }
+
     .table-responsive{
       max-height:70vh;
     }
@@ -97,6 +102,9 @@
 
 let allData = [];
 
+let currentSortColumn = -1;
+let currentSortAsc = true;
+
 fetch('FCMobile/laliga_2025_2026_full_squad.csv?v=' + Date.now())
   .then(response => response.text())
   .then(csv => {
@@ -148,15 +156,36 @@ function renderTable(data){
 
     html += '<tr>';
 
-    row.forEach(col=>{
+    row.forEach((col,colIndex)=>{
 
       if(rowIndex === 0){
 
-        html += `<th>${escapeHtml(col)}</th>`;
+        let sortIcon = '';
+
+        if(currentSortColumn === colIndex){
+
+          sortIcon =
+            currentSortAsc
+              ? ' ▲'
+              : ' ▼';
+
+        }
+
+        html += `
+          <th
+            onclick="sortTable(${colIndex})"
+          >
+            ${escapeHtml(col)}${sortIcon}
+          </th>
+        `;
 
       }else{
 
-        html += `<td>${escapeHtml(col)}</td>`;
+        html += `
+          <td>
+            ${escapeHtml(col)}
+          </td>
+        `;
 
       }
 
@@ -173,6 +202,74 @@ function renderTable(data){
 
 }
 
+function sortTable(columnIndex){
+
+  if(currentSortColumn === columnIndex){
+
+    currentSortAsc = !currentSortAsc;
+
+  }else{
+
+    currentSortColumn = columnIndex;
+    currentSortAsc = true;
+
+  }
+
+  const header =
+    allData[0];
+
+  const rows =
+    allData.slice(1);
+
+  rows.sort((a,b)=>{
+
+    const valueA =
+      normalizeForSearch(
+        a[columnIndex] || ''
+      );
+
+    const valueB =
+      normalizeForSearch(
+        b[columnIndex] || ''
+      );
+
+    const numA =
+      parseFloat(valueA);
+
+    const numB =
+      parseFloat(valueB);
+
+    let compare = 0;
+
+    if(
+      !isNaN(numA) &&
+      !isNaN(numB)
+    ){
+
+      compare = numA - numB;
+
+    }else{
+
+      compare =
+        valueA.localeCompare(valueB);
+
+    }
+
+    return currentSortAsc
+      ? compare
+      : -compare;
+
+  });
+
+  allData = [
+    header,
+    ...rows
+  ];
+
+  filterData();
+
+}
+
 function filterData(){
 
   const keyword =
@@ -185,7 +282,9 @@ function filterData(){
 
   const selectedColumn =
     parseInt(
-      document.getElementById('column').value
+      document
+        .getElementById('column')
+        .value
     );
 
   const filtered = [
@@ -224,11 +323,12 @@ function normalizeForSearch(text){
   };
 
   const replaced =
-    text
+    String(text)
       .toLowerCase()
       .replace(
         /[ßæœøđłþ]/g,
-        char => specialCharMap[char] || char
+        char =>
+          specialCharMap[char] || char
       );
 
   return replaced
@@ -239,7 +339,7 @@ function normalizeForSearch(text){
 
 function escapeHtml(text){
 
-  return text
+  return String(text)
     .replaceAll('&','&amp;')
     .replaceAll('<','&lt;')
     .replaceAll('>','&gt;')
@@ -249,11 +349,17 @@ function escapeHtml(text){
 
 document
   .getElementById('search')
-  .addEventListener('input', filterData);
+  .addEventListener(
+    'input',
+    filterData
+  );
 
 document
   .getElementById('column')
-  .addEventListener('change', filterData);
+  .addEventListener(
+    'change',
+    filterData
+  );
 
 </script>
 
