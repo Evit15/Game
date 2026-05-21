@@ -78,7 +78,7 @@ for team in teams:
                 "club": club,
                 "position": POSITION_MAP.get(position_raw, position_raw),
                 "country": player.get("country", {}).get("name"),
-                "shirt_number": item.get("shirtNumber")
+                "shirt_number": player.get("shirtNumber")
             })
 
         time.sleep(1.2)  # Nghỉ lâu hơn một chút
