@@ -1,565 +1,565 @@
 ﻿player_name,club,position,country,shirt_number
-Lautaro Martínez (lautaro-martinez),Inter,Attacker,Argentina,
-Marcus Thuram (marcus-thuram),Inter,Attacker,France,
-Ange-Yoan Bonny (ange-bonny),Inter,Attacker,Côte d'Ivoire,
-Francesco Pio Esposito (francesco-pio-esposito),Inter,Attacker,Italy,
-Mattia Mosconi (mattia-mosconi),Inter,Attacker,Italy,
-Hakan Çalhanoğlu (hakan-calhanoglu),Inter,Midfielder,Türkiye,
-Nicolò Barella (nicolo-barella),Inter,Midfielder,Italy,
-Piotr Zieliński (piotr-zielinski),Inter,Midfielder,Poland,
-Federico Dimarco (federico-dimarco),Inter,Midfielder,Italy,
-Denzel Dumfries (denzel-dumfries),Inter,Midfielder,Netherlands,
-Henrikh Mkhitaryan (henrikh-mkhitaryan),Inter,Midfielder,Armenia,
-Petar Sučić (petar-sucic),Inter,Midfielder,Croatia,
-Luís Henrique (luis-henrique),Inter,Midfielder,Brazil,
-Davide Frattesi (davide-frattesi),Inter,Midfielder,Italy,
-Andy Diouf (andy-diouf),Inter,Midfielder,France,
-Matteo Darmian (matteo-darmian),Inter,Midfielder,Italy,
-Manuel Akanji (manuel-akanji),Inter,Defender,Switzerland,
-Alessandro Bastoni (alessandro-bastoni),Inter,Defender,Italy,
-Carlos Augusto (carlos-augusto),Inter,Defender,Brazil,
-Yann Bisseck (yann-bisseck),Inter,Defender,Germany,
-Stefan de Vrij (stefan-de-vrij),Inter,Defender,Netherlands,
-Francesco Acerbi (francesco-acerbi),Inter,Defender,Italy,
-Matteo Cocchi (matteo-cocchi),Inter,Defender,Italy,
-Yann Sommer (yann-sommer),Inter,Goalkeeper,Switzerland,
-Josep Martínez (josep-martinez),Inter,Goalkeeper,Spain,
-Raffaele Di Gennaro (raffaele-di-gennaro),Inter,Goalkeeper,Italy,
-Rasmus Højlund (rasmus-hojlund),SSC Napoli,Attacker,Denmark,
-Romelu Lukaku (romelu-lukaku),SSC Napoli,Attacker,Belgium,
-David Neres (david-neres),SSC Napoli,Attacker,Brazil,
-Alisson Santos (alisson-santos),SSC Napoli,Attacker,Brazil,
-Giovane (giovane),SSC Napoli,Attacker,Brazil,
-Antonio Vergara (antonio-vergara),SSC Napoli,Attacker,Italy,
-Kevin De Bruyne (kevin-de-bruyne),SSC Napoli,Midfielder,Belgium,
-Scott McTominay (scott-mctominay),SSC Napoli,Midfielder,Scotland,
-Frank Anguissa (frank-anguissa),SSC Napoli,Midfielder,Cameroon,
-Matteo Politano (matteo-politano),SSC Napoli,Midfielder,Italy,
-Stanislav Lobotka (stanislav-lobotka),SSC Napoli,Midfielder,Slovakia,
-Billy Gilmour (billy-gilmour),SSC Napoli,Midfielder,Scotland,
-Eljif Elmas (eljif-elmas),SSC Napoli,Midfielder,North Macedonia,
-Pasquale Mazzocchi (pasquale-mazzocchi),SSC Napoli,Midfielder,Italy,
-Giovanni Di Lorenzo (giovanni-di-lorenzo),SSC Napoli,Defender,Italy,
-Miguel Gutiérrez (miguel-gutierrez),SSC Napoli,Defender,Spain,
-Alessandro Buongiorno (alessandro-buongiorno),SSC Napoli,Defender,Italy,
-Leonardo Spinazzola (leonardo-spinazzola),SSC Napoli,Defender,Italy,
-Amir Rrahmani (amir-rrahmani),SSC Napoli,Defender,Kosovo,
-Mathías Olivera (mathias-olivera),SSC Napoli,Defender,Uruguay,
-Juan Jesus (juan-jesus),SSC Napoli,Defender,Brazil,
-Sam Beukema (sam-beukema),SSC Napoli,Defender,Netherlands,
-Vanja Milinković-Savić (vanja-milinkovic-savic),SSC Napoli,Goalkeeper,Serbia,
-Alex Meret (alex-meret),SSC Napoli,Goalkeeper,Italy,
-Nikita Contini (nikita-contini),SSC Napoli,Goalkeeper,Italy,
-Mathias Ferrante (mathias-ferrante),SSC Napoli,Goalkeeper,Italy,
-Rafael Leão (rafael-leao),Milan,Attacker,Portugal,
-Christopher Nkunku (christopher-nkunku),Milan,Attacker,France,
-Christian Pulišić (christian-pulisic),Milan,Attacker,USA,
-Santiago Giménez (santiago-gimenez),Milan,Attacker,Mexico,
-Niclas Füllkrug (niclas-fullkrug),Milan,Attacker,Germany,
-Cheveyo Mul-Balentien (cheveyo-mul),Milan,Attacker,Suriname,
-Luka Modrić (luka-modric),Milan,Midfielder,Croatia,
-Pervis Estupiñán (pervis-estupinan),Milan,Midfielder,Ecuador,
-Adrien Rabiot (adrien-rabiot),Milan,Midfielder,France,
-Alexis Saelemaekers (alexis-saelemaekers),Milan,Midfielder,Belgium,
-Ruben Loftus-Cheek (ruben-loftus-cheek),Milan,Midfielder,England,
-Youssouf Fofana (youssouf-fofana),Milan,Midfielder,France,
-Ardon Jashari (ardon-jashari),Milan,Midfielder,Switzerland,
-Samuele Ricci (samuele-ricci),Milan,Midfielder,Italy,
-Strahinja Pavlović (strahinja-pavlovic),Milan,Defender,Serbia,
-Fikayo Tomori (fikayo-tomori),Milan,Defender,England,
-Davide Bartesaghi (davide-bartesaghi),Milan,Defender,Italy,
-Matteo Gabbia (matteo-gabbia),Milan,Defender,Italy,
-Koni De Winter (de-winter-koni),Milan,Defender,Belgium,
-Zachary Athekame (zachary-athekame),Milan,Defender,Switzerland,
-David Odogu (odogu-david),Milan,Defender,Germany,
-Mike Maignan (mike-maignan),Milan,Goalkeeper,France,
-Lorenzo Torriani (lorenzo-torriani),Milan,Goalkeeper,Italy,
-Pietro Terracciano (pietro-terracciano),Milan,Goalkeeper,Italy,
-Paulo Dybala (paulo-dybala),AS Roma,Attacker,Argentina,
-Donyell Malen (donyell-malen),AS Roma,Attacker,Netherlands,
-Artem Dovbyk (artem-dovbyk),AS Roma,Attacker,Ukraine,
-Matías Soulé (matias-soule),AS Roma,Attacker,Argentina,
-Evan Ferguson (evan-ferguson),AS Roma,Attacker,Ireland,
-Robinio Vaz (robinio-vaz),AS Roma,Attacker,France,
-Lorenzo Pellegrini (lorenzo-pellegrini),AS Roma,Attacker,Italy,
-Stephan El Shaarawy (stephan-el-shaarawy),AS Roma,Attacker,Italy,
-Bryan Zaragoza (bryan-zaragoza),AS Roma,Attacker,Spain,
-Lorenzo Venturino (lorenzo-venturino),AS Roma,Attacker,Italy,
-Wesley (wesley-franca),AS Roma,Midfielder,Brazil,
-Neil El Aynaoui (neil-el-aynaoui),AS Roma,Midfielder,Morocco,
-Manu Koné (manu-kone),AS Roma,Midfielder,France,
-Angeliño (angelino),AS Roma,Midfielder,Spain,
-Bryan Cristante (bryan-cristante),AS Roma,Midfielder,Italy,
-Niccolò Pisilli (niccolo-pisilli),AS Roma,Midfielder,Italy,
-Devyne Rensch (devyne-rensch),AS Roma,Midfielder,Netherlands,
-Kostas Tsimikas (kostas-tsimikas),AS Roma,Defender,Greece,
-Evan Ndicka (evan-ndicka),AS Roma,Defender,Côte d'Ivoire,
-Gianluca Mancini (gianluca-mancini),AS Roma,Defender,Italy,
-Jan Ziółkowski (jan-ziolkowski),AS Roma,Defender,Poland,
-Zeki Çelik (zeki-celik),AS Roma,Defender,Türkiye,
-Mario Hermoso (mario-hermoso),AS Roma,Defender,Spain,
-Daniele Ghilardi (daniele-ghilardi),AS Roma,Defender,Italy,
-Mile Svilar (mile-svilar),AS Roma,Goalkeeper,Serbia,
-Pierluigi Gollini (pierluigi-gollini),AS Roma,Goalkeeper,Italy,
-Radosław Żelezny (radoslaw-zelezny),AS Roma,Goalkeeper,Poland,
-Giorgio De Marzi (giorgio-de-marzi),AS Roma,Goalkeeper,USA,
-Álvaro Morata (alvaro-morata),Como,Attacker,Spain,
-Assane Diao (assane-diao),Como,Attacker,Senegal,
-Anastasios Douvikas (anastasios-douvikas),Como,Attacker,Greece,
-Nicolas-Gerrit Kühn (nicolas-gerrit-kuhn),Como,Attacker,Germany,
-Nico Paz (nico-paz),Como,Midfielder,Argentina,
-Martin Baturina (martin-baturina),Como,Midfielder,Croatia,
-Sergi Roberto (sergi-roberto),Como,Midfielder,Spain,
-Máximo Perrone (maximo-perrone),Como,Midfielder,Argentina,
-Jesús Rodriguez (jesus-rodriguez),Como,Midfielder,Spain,
-Jayden Addai (jayden-addai),Como,Midfielder,Netherlands,
-Maxence Caqueret (maxence-caqueret),Como,Midfielder,France,
-Lucas Da Cunha (lucas-da-cunha),Como,Midfielder,France,
-Adrian Lahdo (adrian-lahdo),Como,Midfielder,Sweden,
-Riccardo Cassano (riccardo-cassano),Como,Midfielder,Italy,
-Jacobo Ramón (jacobo-naveros),Como,Defender,Spain,
-Álex Valle (valle-alex),Como,Defender,Spain,
-Diego Carlos (diego-carlos),Como,Defender,Brazil,
-Ivan Smolčić (ivan-smolcic),Como,Defender,Croatia,
-Mërgim Vojvoda (mergim-vojvoda),Como,Defender,Kosovo,
-Marc Kempf (marc-kempf),Como,Defender,Germany,
-Alberto Moreno (alberto-moreno),Como,Defender,Spain,
-Ignace Van der Brempt (ignace-van-der-brempt),Como,Defender,Belgium,
-Edoardo Goldaniga (edoardo-goldaniga),Como,Defender,Italy,
-Jean Butez (jean-butez),Como,Goalkeeper,France,
-Nikola Čavlina (nikola-cavlina),Como,Goalkeeper,Croatia,
-Noel Törnqvist (noel-tornqvist),Como,Goalkeeper,Sweden,
-Henrique Menke (henrique-menke),Como,Goalkeeper,Brazil,
-Mauro Vigorito (mauro-vigorito),Como,Goalkeeper,Italy,
-Kenan Yıldız (yildiz-kenan),Juventus,Attacker,Türkiye,
-Dušan Vlahović (dusan-vlahovic),Juventus,Attacker,Serbia,
-Jonathan David (jonathan-david),Juventus,Attacker,Canada,
-Francisco Conceição (francisco-conceicao),Juventus,Attacker,Portugal,
-Loïs Openda (lois-openda),Juventus,Attacker,Belgium,
-Arkadiusz Milik (arkadiusz-milik),Juventus,Attacker,Poland,
-Edon Zhegrova (edon-zhegrova),Juventus,Attacker,Kosovo,
-Jérémie Boga (jeremie-boga),Juventus,Attacker,Côte d'Ivoire,
-Khéphren Thuram (khephren-thuram),Juventus,Midfielder,France,
-Manuel Locatelli (manuel-locatelli),Juventus,Midfielder,Italy,
-Weston McKennie (weston-mckennie),Juventus,Midfielder,USA,
-Teun Koopmeiners (teun-koopmeiners),Juventus,Midfielder,Netherlands,
-Andrea Cambiaso (cambiaso-andrea),Juventus,Midfielder,Italy,
-Filip Kostić (filip-kostic),Juventus,Midfielder,Serbia,
-Vasilije Adžić (vasilije-adzic),Juventus,Midfielder,Montenegro,
-Fabio Miretti (fabio-miretti),Juventus,Midfielder,Italy,
-Bremer (bremer),Juventus,Defender,Brazil,
-Pierre Kalulu (pierre-kalulu),Juventus,Defender,France,
-Federico Gatti (federico-gatti),Juventus,Defender,Italy,
-Juan Cabal (juan-cabal),Juventus,Defender,Colombia,
-Lloyd Kelly (lloyd-kelly),Juventus,Defender,England,
-Emil Holm (emil-holm),Juventus,Defender,Sweden,
-Michele Di Gregorio (michele-di-gregorio),Juventus,Goalkeeper,Italy,
-Mattia Perin (mattia-perin),Juventus,Goalkeeper,Italy,
-Carlo Pinsoglio (carlo-pinsoglio),Juventus,Goalkeeper,Italy,
-Charles De Ketelaere (charles-de-ketelaere),Atalanta,Attacker,Belgium,
-Kamaldeen Sulemana (kamaldeen-sulemana),Atalanta,Attacker,Ghana,
-Giacomo Raspadori (giacomo-raspadori),Atalanta,Attacker,Italy,
-Gianluca Scamacca (gianluca-scamacca),Atalanta,Attacker,Italy,
-Nikola Krstović (nikola-krstovic),Atalanta,Attacker,Montenegro,
-Dominic Vavassori (dominic-vavassori),Atalanta,Attacker,Italy,
-Nicola Zalewski (nicola-zalewski),Atalanta,Midfielder,Poland,
-Éderson (ederson),Atalanta,Midfielder,Brazil,
-Mario Pašalić (mario-pasalic),Atalanta,Midfielder,Croatia,
-Lazar Samardžić (lazar-samardzic),Atalanta,Midfielder,Serbia,
-Yunus Musah (yunus-musah),Atalanta,Midfielder,USA,
-Raoul Bellanova (raoul-bellanova),Atalanta,Midfielder,Italy,
-Davide Zappacosta (davide-zappacosta),Atalanta,Midfielder,Italy,
-Marten de Roon (marten-de-roon),Atalanta,Midfielder,Netherlands,
-Lorenzo Bernasconi (lorenzo-bernasconi),Atalanta,Midfielder,Italy,
-Odilon Kossounou (odilon-kossounou),Atalanta,Defender,Côte d'Ivoire,
-Sead Kolašinac (sead-kolasinac),Atalanta,Defender,Bosnia & Herzegovina,
-Giorgio Scalvini (giorgio-scalvini),Atalanta,Defender,Italy,
-Isak Hien (isak-hien),Atalanta,Defender,Sweden,
-Honest Ahanor (honest-ahanor),Atalanta,Defender,Italy,
-Berat Djimsiti (berat-djimsiti),Atalanta,Defender,Albania,
-Mitchel Bakker (mitchel-bakker),Atalanta,Defender,Netherlands,
-Relja Obrić (relja-obric),Atalanta,Defender,Slovenia,
-Marco Carnesecchi (marco-carnesecchi),Atalanta,Goalkeeper,Italy,
-Marco Sportiello (marco-sportiello),Atalanta,Goalkeeper,Italy,
-Francesco Rossi (francesco-rossi),Atalanta,Goalkeeper,Italy,
-Santiago Castro (santiago-castro),Bologna,Attacker,Argentina,
-Jonathan Rowe (jonathan-rowe),Bologna,Attacker,England,
-Thijs Dallinga (thijs-dallinga),Bologna,Attacker,Netherlands,
-Nicolò Cambiaghi (cambiaghi-nicolo),Bologna,Attacker,Italy,
-Riccardo Orsolini (riccardo-orsolini),Bologna,Midfielder,Italy,
-Federico Bernardeschi (federico-bernardeschi),Bologna,Midfielder,Italy,
-Benjamín Domínguez (benjamin-dominguez),Bologna,Midfielder,Argentina,
-Nikola Moro (nikola-moro),Bologna,Midfielder,Croatia,
-Lewis Ferguson (lewis-ferguson),Bologna,Midfielder,Scotland,
-Remo Freuler (remo-freuler),Bologna,Midfielder,Switzerland,
-Jens Odgaard (jens-odgaard),Bologna,Midfielder,Denmark,
-Tommaso Pobega (tommaso-pobega),Bologna,Midfielder,Italy,
-Simon Sohm (simon-sohm),Bologna,Midfielder,Switzerland,
-Jhon Lucumí (jhon-lucumi),Bologna,Defender,Colombia,
-João Mário (joao-mario),Bologna,Defender,Portugal,
-Juan Miranda (juan-miranda),Bologna,Defender,Spain,
-Nadir Zortea (zortea-nadir),Bologna,Defender,Italy,
-Martin Vitík (martin-vitik),Bologna,Defender,Czechia,
-Torbjørn Heggem (torbjorn-heggem),Bologna,Defender,Norway,
-Eivind Helland (eivind-helland),Bologna,Defender,Norway,
-Charalampos Lykogiannis (charalampos-lykogiannis),Bologna,Defender,Greece,
-Nicolò Casale (nicolo-casale),Bologna,Defender,Italy,
-Lorenzo De Silvestri (lorenzo-de-silvestri),Bologna,Defender,Italy,
-Kevin Bonifazi (kevin-bonifazi),Bologna,Defender,Italy,
-Bodin Tomašević (tomasevic-bodin),Bologna,Defender,Montenegro,
-Łukasz Skorupski (ukasz-skorupski),Bologna,Goalkeeper,Poland,
-Federico Ravaglia (federico-ravaglia),Bologna,Goalkeeper,Italy,
-Massimo Pessina (massimo-pessina),Bologna,Goalkeeper,Italy,
-Boulaye Dia (boulaye-dia),Lazio,Attacker,Senegal,
-Pedro (pedro),Lazio,Attacker,Spain,
-Daniel Maldini (daniel-maldini),Lazio,Attacker,Italy,
-Mattia Zaccagni (mattia-zaccagni),Lazio,Attacker,Italy,
-Gustav Isaksen (gustav-isaksen),Lazio,Attacker,Denmark,
-Petar Ratkov (petar-ratkov),Lazio,Attacker,Serbia,
-Matteo Cancellieri (matteo-cancellieri),Lazio,Attacker,Italy,
-Tijjani Noslin (tijjani-noslin),Lazio,Attacker,Netherlands,
-Reda Belahyane (reda-belahyane),Lazio,Midfielder,Morocco,
-Kenneth Taylor (kenneth-taylor),Lazio,Midfielder,Netherlands,
-Fisayo Dele-Bashiru (fisayo-dele-bashiru),Lazio,Midfielder,Nigeria,
-Nicolò Rovella (nicolo-rovella),Lazio,Midfielder,Italy,
-Toma Bašić (toma-basic),Lazio,Midfielder,Croatia,
-Adrian Przyborek (przyborek-adrian),Lazio,Midfielder,Poland,
-Danilo Cataldi (danilo-cataldi),Lazio,Midfielder,Italy,
-Nuno Tavares (nuno-tavares),Lazio,Defender,Portugal,
-Mario Gila (mario-gila),Lazio,Defender,Spain,
-Alessio Romagnoli (alessio-romagnoli),Lazio,Defender,Italy,
-Luca Pellegrini (luca-pellegrini),Lazio,Defender,Italy,
-Elseid Hysaj (elseid-hysaj),Lazio,Defender,Albania,
-Adam Marušić (adam-marusic),Lazio,Defender,Montenegro,
-Samuel Gigot (samuel-gigot),Lazio,Defender,France,
-Manuel Lazzari (manuel-lazzari),Lazio,Defender,Italy,
-Oliver Provstgaard (oliver-provstgaard),Lazio,Defender,Denmark,
-Patric (patric),Lazio,Defender,Spain,
-Ivan Provedel (ivan-provedel),Lazio,Goalkeeper,Italy,
-Edoardo Motta (edoardo-motta),Lazio,Goalkeeper,Italy,
-Alessio Furlanetto (alessio-furlanetto),Lazio,Goalkeeper,Italy,
-Giacomo Giacomone (giacomo-giacomone),Lazio,Goalkeeper,Italy,
-Nicolo Pannozzo (pannozzo-nicolo),Lazio,Goalkeeper,Italy,
-Nicolò Zaniolo (nicolo-zaniolo),Udinese,Attacker,Italy,
-Adam Buksa (adam-buksa),Udinese,Attacker,Poland,
-Vakoun Issouf Bayo (vakoun-issouf-bayo),Udinese,Attacker,Côte d'Ivoire,
-Idrissa Gueye (idrissa-gueye),Udinese,Attacker,Senegal,
-Keinan Davis (keinan-davis),Udinese,Attacker,England,
-Arthur Atta (atta-arthur),Udinese,Midfielder,France,
-Jakub Piotrowski (jakub-piotrowski),Udinese,Midfielder,Poland,
-Lennon Miller (lennon-miller),Udinese,Midfielder,Scotland,
-Jürgen Ekkelenkamp (jurgen-ekkelenkamp),Udinese,Midfielder,Netherlands,
-Hassane Kamara (hassane-kamara),Udinese,Midfielder,Côte d'Ivoire,
-Alessandro Zanoli (alessandro-zanoli),Udinese,Midfielder,Italy,
-Jordan Zemura (jordan-zemura),Udinese,Midfielder,Zimbabwe,
-Jesper Karlström (jesper-karlstrom),Udinese,Midfielder,Sweden,
-Kingsley Ehizibue (kingsley-ehizibue),Udinese,Midfielder,Nigeria,
-Abdoulaye Camara (abdoulaye-camara),Udinese,Midfielder,France,
-Oier Zarraga (oier-zarraga),Udinese,Midfielder,Spain,
-Oumar Solet (oumar-solet),Udinese,Defender,France,
-Branimir Mlačić (branimir-mlacic),Udinese,Defender,Croatia,
-Juan Arizala (juan-arizala),Udinese,Defender,Colombia,
-Thomas Kristensen (thomas-kristensen),Udinese,Defender,Denmark,
-Christian Kabasele (christian-kabasele),Udinese,Defender,Belgium,
-Nicolò Bertola (nicolo-bertola),Udinese,Defender,Italy,
-Maduka Okoye (maduka-okoye),Udinese,Goalkeeper,Nigeria,
-Răzvan Sava (razvan-sava),Udinese,Goalkeeper,Romania,
-Alessandro Nunziante (nunziante-alessandro),Udinese,Goalkeeper,Italy,
-Daniele Padelli (daniele-padelli),Udinese,Goalkeeper,Italy,
-Domenico Berardi (domenico-berardi),Sassuolo,Attacker,Italy,
-Andrea Pinamonti (andrea-pinamonti),Sassuolo,Attacker,Italy,
-Armand Laurienté (armand-lauriente),Sassuolo,Attacker,France,
-M'bala Nzola (mbala-nzola),Sassuolo,Attacker,Angola,
-Alieu Fadera (alieu-fadera),Sassuolo,Attacker,Gambia,
-Luca Moro (luca-moro),Sassuolo,Attacker,Italy,
-Nemanja Matić (nemanja-matic),Sassuolo,Midfielder,Serbia,
-Ismael Koné (ismael-kone),Sassuolo,Midfielder,Canada,
-Kristian Thorstvedt (kristian-thorstvedt),Sassuolo,Midfielder,Norway,
-Darryl Bakola (darryl-bakola),Sassuolo,Midfielder,France,
-Aster Vranckx (aster-vranckx),Sassuolo,Midfielder,Belgium,
-Cristian Volpato (cristian-volpato),Sassuolo,Midfielder,Italy,
-Luca Lipani (luca-lipani),Sassuolo,Midfielder,Italy,
-Daniel Boloca (daniel-boloca),Sassuolo,Midfielder,Italy,
-Edoardo Iannoni (edoardo-iannoni),Sassuolo,Midfielder,Italy,
-Christian Frangella (christian-frangella),Sassuolo,Midfielder,Italy,
-Jay Idzes (jay-idzes),Sassuolo,Defender,Indonesia,
-Tarik Muharemović (tarik-muharemovic),Sassuolo,Defender,Bosnia & Herzegovina,
-Woyo Coulibaly (woyo-coulibaly),Sassuolo,Defender,Mali,
-Sebastian Walukiewicz (sebastian-walukiewicz),Sassuolo,Defender,Poland,
-Josh Doig (josh-doig),Sassuolo,Defender,Scotland,
-Ulisses Garcia (ulisses-garcia),Sassuolo,Defender,Switzerland,
-Pedro Felipe (pedro-felipe),Sassuolo,Defender,Brazil,
-Fali Candé (fali-cande),Sassuolo,Defender,Guinea-Bissau,
-Edoardo Pieragnolo (edoardo-pieragnolo),Sassuolo,Defender,Italy,
-Filippo Romagna (filippo-romagna),Sassuolo,Defender,Italy,
-Tommaso Macchioni (tommaso-macchioni),Sassuolo,Defender,Italy,
-Arijanet Murić (arijanet-muric),Sassuolo,Goalkeeper,Kosovo,
-Stefano Turati (stefano-turati),Sassuolo,Goalkeeper,Italy,
-Gioele Zacchi (gioele-zacchi),Sassuolo,Goalkeeper,Italy,
-Giacomo Satalino (giacomo-satalino),Sassuolo,Goalkeeper,Italy,
-Giovanni Simeone (giovanni-simeone),Torino,Attacker,Argentina,
-Zakaria Aboukhlal (zakaria-aboukhlal),Torino,Attacker,Morocco,
-Duván Zapata (duvan-zapata),Torino,Attacker,Colombia,
-Sandro Kulenović (sandro-kulenovic),Torino,Attacker,Croatia,
-Che Adams (che-adams),Torino,Attacker,Scotland,
-Alieu Njie (alieu-njie),Torino,Attacker,Sweden,
-Cesare Casadei (cesare-casadei),Torino,Midfielder,Italy,
-Nikola Vlašić (nikola-vlasic),Torino,Midfielder,Croatia,
-Ivan Ilić (ivan-ilic),Torino,Midfielder,Serbia,
-Gvidas Gineitis (gineitis-gvidas),Torino,Midfielder,Lithuania,
-Emirhan İlkhan (emirhan-ilkhan),Torino,Midfielder,Türkiye,
-Tino Anjorin (tino-anjorin),Torino,Midfielder,England,
-Valentino Lazaro (valentino-lazaro),Torino,Midfielder,Austria,
-Matteo Prati (matteo-prati),Torino,Midfielder,Italy,
-Marcus Pedersen (marcus-pedersen),Torino,Midfielder,Norway,
-Sergiu Perciun (sergiu-perciun),Torino,Midfielder,Moldova,
-Zanos Savva (zanos-savva),Torino,Midfielder,Cyprus,
-Wisdom Acquah (wisdom-acquah),Torino,Midfielder,Italy,
-Guillermo Maripán (guillermo-maripan),Torino,Defender,Chile,
-Rafael Obrador (rafael-obrador),Torino,Defender,Spain,
-Cristiano Biraghi (cristiano-biraghi),Torino,Defender,Italy,
-Saúl Coco (saul-coco),Torino,Defender,Equatorial Guinea,
-Ardian Ismajli (ardian-ismajli),Torino,Defender,Albania,
-Saba Sazonov (saba-sazonov),Torino,Defender,Georgia,
-Luca Marianucci (marianucci-luca),Torino,Defender,Italy,
-Niels Nkounkou (niels-nkounkou),Torino,Defender,France,
-Enzo Ebosse (enzo-ebosse),Torino,Defender,Cameroon,
-Adrien Tameze (adrien-tameze),Torino,Defender,France,
-Mattia Pellini (mattia-pellini),Torino,Defender,Italy,
-Franco Israel (franco-israel),Torino,Goalkeeper,Uruguay,
-Alberto Paleari (alberto-paleari),Torino,Goalkeeper,Italy,
-Lapo Siviero (siviero-lapo),Torino,Goalkeeper,Italy,
-Mateo Pellegrino (pellegrino-mateo),Parma,Attacker,Argentina,
-Matija Frigan (matija-frigan),Parma,Attacker,Croatia,
-Jacob Ondrejka (jacob-ondrejka),Parma,Attacker,Sweden,
-Nesta Elphege (elphege-nesta),Parma,Attacker,France,
-Daniel Mikołajewski (daniel-mikolajewski),Parma,Attacker,Poland,
-Pontus Almqvist (pontus-almqvist),Parma,Attacker,Sweden,
-Benjamin Cremaschi (cremaschi-benjamin),Parma,Midfielder,USA,
-Gabriel Strefezza (gabriel-strefezza),Parma,Midfielder,Brazil,
-Adrián Bernabé (adrian-bernabe),Parma,Midfielder,Spain,
-Hans Nicolussi Caviglia (hans-nicolussi-caviglia),Parma,Midfielder,Italy,
-Mandela Keita (mandela-keita),Parma,Midfielder,Belgium,
-Franco Carboni (franco-carboni),Parma,Midfielder,Argentina,
-Gaetano Oristanio (gaetano-oristanio),Parma,Midfielder,Italy,
-Emanuele Valeri (emanuele-valeri),Parma,Midfielder,Italy,
-Christian Ordoñez (christian-ordonez),Parma,Midfielder,Argentina,
-Oliver Sørensen (oliver-sorensen),Parma,Midfielder,Denmark,
-Nahuel Estévez (nahuel-estevez),Parma,Midfielder,Argentina,
-Alessandro Cardinali (alessandro-cardinali),Parma,Midfielder,Italy,
-Edoardo Tigani (edoardo-tigani),Parma,Midfielder,Italy,
-Mariano Troilo (mariano-troilo),Parma,Defender,Argentina,
-Abdoulaye Ndiaye (abdoulaye-ndiaye),Parma,Defender,Senegal,
-Alessandro Circati (alessandro-circati),Parma,Defender,Australia,
-Enrico Delprato (enrico-del-prato),Parma,Defender,Italy,
-Lautaro Valenti (lautaro-valenti),Parma,Defender,Argentina,
-Sascha Britschgi (sascha-britschgi),Parma,Defender,Switzerland,
-Marlon Mena (marlon-mena),Parma,Defender,Dominican Republic,
-Zion Suzuki (suzuki-zion),Parma,Goalkeeper,Japan,
-Edoardo Corvi (edoardo-corvi),Parma,Goalkeeper,Italy,
-Filippo Rinaldi (filippo-rinaldi),Parma,Goalkeeper,Italy,
-Gianluca Astaldi (gianluca-astaldi),Parma,Goalkeeper,Italy,
-Lorenzo Colombo (lorenzo-colombo),Genoa,Attacker,Italy,
-Vitinha (vitinha),Genoa,Attacker,Portugal,
-Maxwel Cornet (maxwel-cornet),Genoa,Attacker,Côte d'Ivoire,
-Junior Messias (junior-messias),Genoa,Attacker,Brazil,
-Caleb Ekuban (caleb-ekuban),Genoa,Attacker,Ghana,
-Jeff Ekhator (jeff-ekhator),Genoa,Attacker,Italy,
-Ruslan Malinovskyi (ruslan-malinovskyi),Genoa,Midfielder,Ukraine,
-Tommaso Baldanzi (tommaso-baldanzi),Genoa,Midfielder,Italy,
-Morten Frendrup (morten-frendrup),Genoa,Midfielder,Denmark,
-Jean Onana (jean-onana),Genoa,Midfielder,Cameroon,
-Alexsandro Amorim (amorim),Genoa,Midfielder,Brazil,
-Mikael Ellertsson (mikael-ellertsson),Genoa,Midfielder,Iceland,
-Patrizio Masini (patrizio-masini),Genoa,Midfielder,Italy,
-Gael Lafont (gael-lafont),Genoa,Midfielder,France,
-Jacopo Grossi (jacopo-grossi),Genoa,Midfielder,Italy,
-Johan Vásquez (johan-vasquez),Genoa,Defender,Mexico,
-Leo Østigård (leo-ostigard),Genoa,Defender,Norway,
-Brooke Norton-Cuffy (brooke-norton-cuffy),Genoa,Defender,England,
-Aarón Martín (aaron-martin),Genoa,Defender,Spain,
-Nils Zätterström (nils-zatterstrom),Genoa,Defender,Sweden,
-Sebastian Otoa (sebastian-otoa),Genoa,Defender,Denmark,
-Alessandro Marcandalli (alessandro-marcandalli),Genoa,Defender,Italy,
-Wedtoin Latif Ouedraogo (wedtoin-latif-ouedraogo),Genoa,Defender,Burkina Faso,
-Stefano Sabelli (stefano-sabelli),Genoa,Defender,Italy,
-Lukas Klisys (lukas-klisys),Genoa,Defender,Lithuania,
-Mamedi Doucoure (mamedi-doucoure),Genoa,Defender,France,
-Justin Bijlow (justin-bijlow),Genoa,Goalkeeper,Netherlands,
-Nicola Leali (nicola-leali),Genoa,Goalkeeper,Italy,
-Benjamin Siegrist (benjamin-siegrist),Genoa,Goalkeeper,Switzerland,
-Daniele Sommariva (daniele-sommariva),Genoa,Goalkeeper,Italy,
-Ernestas Lysionok (ernestas-lysionok),Genoa,Goalkeeper,Lithuania,
-Moise Kean (moise-kean),Fiorentina,Attacker,Italy,
-Albert Guðmundsson (albert-gudmundsson),Fiorentina,Attacker,Iceland,
-Roberto Piccoli (roberto-piccoli),Fiorentina,Attacker,Italy,
-Jack Harrison (jack-harrison),Fiorentina,Attacker,England,
-Jacopo Fazzini (jacopo-fazzini),Fiorentina,Attacker,Italy,
-Riccardo Braschi (riccardo-braschi),Fiorentina,Attacker,Italy,
-Manor Solomon (manor-solomon),Fiorentina,Midfielder,Israel,
-Nicolò Fagioli (nicolo-fagioli),Fiorentina,Midfielder,Italy,
-Abdelhamid Sabiri (abdelhamid-sabiri),Fiorentina,Midfielder,Morocco,
-Dodô (dodo),Fiorentina,Midfielder,Brazil,
-Robin Gosens (robin-gosens),Fiorentina,Midfielder,Germany,
-Cher Ndour (cher-ndour),Fiorentina,Midfielder,Italy,
-Rolando Mandragora (rolando-mandragora),Fiorentina,Midfielder,Italy,
-Giovanni Fabbian (giovanni-fabbian),Fiorentina,Midfielder,Italy,
-Marco Brescianini (marco-brescianini),Fiorentina,Midfielder,Italy,
-Niccolò Fortini (niccolo-fortini),Fiorentina,Midfielder,Italy,
-Marin Pongračić (marin-pongracic),Fiorentina,Defender,Croatia,
-Eman Košpo (eman-kospo),Fiorentina,Defender,Bosnia & Herzegovina,
-Daniele Rugani (daniele-rugani),Fiorentina,Defender,Italy,
-Pietro Comuzzo (comuzzo-pietro),Fiorentina,Defender,Italy,
-Luca Ranieri (luca-ranieri),Fiorentina,Defender,Italy,
-Fabiano Parisi (fabiano-parisi),Fiorentina,Defender,Italy,
-Luís Balbo (luis-balbo),Fiorentina,Defender,Venezuela,
-Eddy Kouadio (eddy-kouadio),Fiorentina,Defender,Italy,
-David De Gea (david-de-gea),Fiorentina,Goalkeeper,Spain,
-Oliver Christensen (oliver-christensen),Fiorentina,Goalkeeper,Denmark,
-Luca Lezzerini (luca-lezzerini),Fiorentina,Goalkeeper,Italy,
-Semih Kılıçsoy (semih-kilicsoy),Cagliari,Attacker,Türkiye,
-Sebastiano Esposito (sebastiano-esposito),Cagliari,Attacker,Italy,
-Andrea Belotti (andrea-belotti),Cagliari,Attacker,Italy,
-Paul Mendy (paul-mendy),Cagliari,Attacker,Senegal,
-Leonardo Pavoletti (leonardo-pavoletti),Cagliari,Attacker,Italy,
-Gennaro Borrelli (gennaro-borrelli),Cagliari,Attacker,Italy,
-Mattia Felici (mattia-felici),Cagliari,Attacker,Italy,
-Yael Trepy (yael-trepy),Cagliari,Attacker,France,
-Marco Palestra (palestra-marco),Cagliari,Midfielder,Italy,
-Sulemana (sulemana),Cagliari,Midfielder,Ghana,
-Michael Folorunsho (michael-folorunsho),Cagliari,Midfielder,Italy,
-Gianluca Gaetano (gianluca-gaetano),Cagliari,Midfielder,Italy,
-Michel Adopo (michel-ndary-adopo),Cagliari,Midfielder,France,
-Joseph Liteta (joseph-liteta),Cagliari,Midfielder,Zambia,
-Luca Mazzitelli (luca-mazzitelli),Cagliari,Midfielder,Italy,
-Alessandro Deiola (alessandro-deiola),Cagliari,Midfielder,Italy,
-Agustín Albarracín (agustin-albarracin),Cagliari,Midfielder,Uruguay,
-Yerry Mina (yerry-mina),Cagliari,Defender,Colombia,
-Mateusz Wieteska (mateusz-wieteska),Cagliari,Defender,Poland,
-Juan Rodríguez (rodriguez-juan),Cagliari,Defender,Uruguay,
-Adam Obert (adam-obert),Cagliari,Defender,Slovakia,
-Zé Pedro (ze-pedro),Cagliari,Defender,Portugal,
-Gabriele Zappa (gabriele-zappa),Cagliari,Defender,Italy,
-Alberto Dossena (alberto-dossena),Cagliari,Defender,Italy,
-Riyad Idrissi (riyad-idrissi),Cagliari,Defender,Italy,
-Othniël Raterink (othniel-raterink),Cagliari,Defender,Netherlands,
-Elia Caprile (elia-caprile),Cagliari,Goalkeeper,Italy,
-Alen Sherri (alen-sherri),Cagliari,Goalkeeper,Albania,
-Giuseppe Ciocci (giuseppe-ciocci),Cagliari,Goalkeeper,Italy,
-Francesco Camarda (camarda-francesco),Lecce,Attacker,Italy,
-Walid Cheddira (walid-cheddira),Lecce,Attacker,Morocco,
-Riccardo Sottil (riccardo-sottil),Lecce,Attacker,Italy,
-Nikola Štulić (nikola-stulic),Lecce,Attacker,Serbia,
-Santiago Pierotti (santiago-pierotti),Lecce,Attacker,Argentina,
-N'Dri Konan (ndri-konan),Lecce,Attacker,Côte d'Ivoire,
-Lameck Banda (lameck-banda),Lecce,Midfielder,Zambia,
-Lassana Coulibaly (lassana-coulibaly),Lecce,Midfielder,Mali,
-Filip Marchwiński (filip-marchwinski),Lecce,Midfielder,Poland,
-Medon Berisha (medon-berisha),Lecce,Midfielder,Albania,
-Oumar Ngom (oumar-ngom),Lecce,Midfielder,Mauritania,
-Ylber Ramadani (ylber-ramadani),Lecce,Midfielder,Albania,
-Omri Gandelman (omri-gandelman),Lecce,Midfielder,Israel,
-Sadik Fofana (sadik-fofana),Lecce,Midfielder,Togo,
-Þórir Jóhann Helgason (thorir-johann-helgason),Lecce,Midfielder,Iceland,
-Alex Sala (alex-sala),Lecce,Midfielder,Spain,
-Olaf Gorter (olaf-gorter),Lecce,Midfielder,Netherlands,
-Tiago Gabriel (tiago-gabriel),Lecce,Defender,Portugal,
-Kialonda Gaspar (kialonda-gaspar),Lecce,Defender,Angola,
-Matías Pérez (matias-ignacio-perez-sepulveda),Lecce,Defender,Chile,
-Antonino Gallo (antonino-gallo),Lecce,Defender,Italy,
-Danilo Veiga (danilo-veiga),Lecce,Defender,Portugal,
-Jamil Siebert (jamil-siebert),Lecce,Defender,Germany,
-Corrie Ndaba (corrie-ndaba),Lecce,Defender,Ireland,
-Gaby Jean (gaby-jean),Lecce,Defender,France,
-Wladimiro Falcone (wladimiro-falcone),Lecce,Goalkeeper,Italy,
-Christian Früchtl (christian-fruchtl),Lecce,Goalkeeper,Germany,
-Jasper Samooja (samooja-jasper),Lecce,Goalkeeper,Finland,
-Jamie Vardy (jamie-vardy),Cremonese,Attacker,England,
-Antonio Sanabria (antonio-sanabria),Cremonese,Attacker,Paraguay,
-Faris Moumbagna (faris-pemi-moumbagna),Cremonese,Attacker,Cameroon,
-Federico Bonazzoli (federico-bonazzoli),Cremonese,Attacker,Italy,
-David Okereke (david-okereke),Cremonese,Attacker,Nigeria,
-Milan Đurić (milan-uric),Cremonese,Attacker,Bosnia & Herzegovina,
-Warren Bondo (warren-bondo),Cremonese,Midfielder,France,
-Romano Floriani Mussolini (romano-floriani-mussolini),Cremonese,Midfielder,Italy,
-Youssef Maleh (youssef-maleh),Cremonese,Midfielder,Morocco,
-Alessio Zerbin (alessio-zerbin),Cremonese,Midfielder,Italy,
-Jari Vandeputte (jari-vandeputte),Cremonese,Midfielder,Belgium,
-Martín Payero (martin-payero),Cremonese,Midfielder,Argentina,
-Morten Thorsby (morten-thorsby),Cremonese,Midfielder,Norway,
-Giuseppe Pezzella (giuseppe-pezzella),Cremonese,Midfielder,Italy,
-Tommaso Barbieri (tommaso-barbieri),Cremonese,Midfielder,Italy,
-Michele Collocolo (michele-collocolo),Cremonese,Midfielder,Italy,
-Alberto Grassi (alberto-grassi),Cremonese,Midfielder,Italy,
-Mikayil Faye (mikayil-faye),Cremonese,Defender,Senegal,
-Filippo Terracciano (filippo-terracciano),Cremonese,Defender,Italy,
-Federico Baschirotto (federico-baschirotto),Cremonese,Defender,Italy,
-Sebastiano Luperto (sebastiano-luperto),Cremonese,Defender,Italy,
-Matteo Bianchetti (matteo-bianchetti),Cremonese,Defender,Italy,
-Francesco Folino (francesco-folino),Cremonese,Defender,Italy,
-Federico Ceccherini (federico-ceccherini),Cremonese,Defender,Italy,
-Emil Audero (emil-audero),Cremonese,Goalkeeper,Indonesia,
-Lapo Nava (lapo-nava),Cremonese,Goalkeeper,Italy,
-Marco Silvestri (marco-silvestri),Cremonese,Goalkeeper,Italy,
-Marco Cassin (marco-cassin),Cremonese,Goalkeeper,Italy,
-Gift Orban (gift-orban),Hellas Verona,Attacker,Nigeria,
-Tomáš Suslov (tomas-suslov),Hellas Verona,Attacker,Slovakia,
-Daniel Mosquera (daniel-mosquera),Hellas Verona,Attacker,Colombia,
-Amin Sarr (amin-sarr),Hellas Verona,Attacker,Sweden,
-Kieron Bowie (kieron-bowie),Hellas Verona,Attacker,Scotland,
-Isaac (isaac),Hellas Verona,Attacker,Brazil,
-Ioan Vermesan (ioan-vermesan),Hellas Verona,Attacker,Romania,
-Junior Ajayi (junior-ajayi),Hellas Verona,Attacker,Nigeria,
-Rafik Belghali (belghali-rafik),Hellas Verona,Midfielder,Algeria,
-Moatasem Al-Musrati (moatasem-al-musrati),Hellas Verona,Midfielder,Libya,
-Domagoj Bradarić (domagoj-bradaric),Hellas Verona,Midfielder,Croatia,
-Cheikh Niasse (cheikh-niasse),Hellas Verona,Midfielder,Senegal,
-Abdou Harroui (abdou-harroui),Hellas Verona,Midfielder,Morocco,
-Sandi Lovrić (sandi-lovric),Hellas Verona,Midfielder,Slovenia,
-Suat Serdar (suat-serdar),Hellas Verona,Midfielder,Germany,
-Roberto Gagliardini (roberto-gagliardini),Hellas Verona,Midfielder,Italy,
-Jean Daniel Akpa-Akpro (jean-akpa),Hellas Verona,Midfielder,Côte d'Ivoire,
-Antoine Bernede (antoine-bernede),Hellas Verona,Midfielder,France,
-Daniel Oyegoke (daniel-oyegoke),Hellas Verona,Midfielder,England,
-Victor Nelsson (victor-nelsson),Hellas Verona,Defender,Denmark,
-Nicolás Valentini (nicolas-valentini),Hellas Verona,Defender,Argentina,
-Armel Bella-Kotchap (armel-bella-kotchap),Hellas Verona,Defender,Germany,
-Pol Lirola (pol-lirola),Hellas Verona,Defender,Spain,
-Tobias Slotsager (tobias-slotsager),Hellas Verona,Defender,Denmark,
-Martin Frese (martin-frese),Hellas Verona,Defender,Denmark,
-Andrias Edmundsson (andrias-edmundsson),Hellas Verona,Defender,Faroe Islands,
-Fallou Cham (fallou-cham),Hellas Verona,Defender,Gambia,
-Lorenzo Montipò (lorenzo-montipo),Hellas Verona,Goalkeeper,Italy,
-Simone Perilli (simone-perilli),Hellas Verona,Goalkeeper,Italy,
-Giacomo Toniolo (giacomo-toniolo),Hellas Verona,Goalkeeper,Italy,
-Arthur Borghi (arthur-rampineli-borghi),Hellas Verona,Goalkeeper,Brazil,
-Samuel Iling Junior (samuel-iling-junior),Pisa,Attacker,England,
-Rafiu Durosinmi (rafiu-durosinmi),Pisa,Attacker,Nigeria,
-Matteo Tramoni (matteo-tramoni),Pisa,Attacker,France,
-Stefano Moreo (stefano-moreo),Pisa,Attacker,Italy,
-Henrik Wendel Meister (henrik-wendel-meister),Pisa,Attacker,Denmark,
-Filip Stojilković (filip-stojilkovic),Pisa,Attacker,Switzerland,
-Juan Cuadrado (juan-cuadrado),Pisa,Midfielder,Colombia,
-Lorran (lorran),Pisa,Midfielder,Brazil,
-Felipe Loyola (loyola-felipe),Pisa,Midfielder,Chile,
-Ebenezer Akinsanmiro (ebenezer-akinsanmiro),Pisa,Midfielder,Nigeria,
-Calvin Stengs (calvin-stengs),Pisa,Midfielder,Netherlands,
-Mehdi Léris (mehdi-leris),Pisa,Midfielder,Algeria,
-Marius Marin (marius-marin),Pisa,Midfielder,Romania,
-Michel Aebischer (michel-aebischer),Pisa,Midfielder,Switzerland,
-Isak Vural (isak-vural),Pisa,Midfielder,Türkiye,
-Idrissa Touré (idrissa-toure),Pisa,Midfielder,Germany,
-Samuele Angori (samuele-angori),Pisa,Midfielder,Italy,
-Malthe Højholt (malthe-hojholt),Pisa,Midfielder,Denmark,
-Gabriele Piccinini (gabriele-piccinini),Pisa,Midfielder,Italy,
-Brando Bettazzi (brando-bettazzi),Pisa,Midfielder,Italy,
-Raúl Albiol (raul-albiol),Pisa,Defender,Spain,
-Rosen Bozhinov (rosen-bozhinov),Pisa,Defender,Bulgaria,
-Simone Canestrelli (simone-canestrelli),Pisa,Defender,Italy,
-Antonio Caracciolo (antonio-caracciolo),Pisa,Defender,Italy,
-Francesco Coppola (coppola-francesco),Pisa,Defender,Italy,
-Arturo Calabresi (arturo-calabresi),Pisa,Defender,Italy,
-Daniel Denoon (daniel-denoon),Pisa,Defender,Switzerland,
-Adrian Šemper (adrian-semper),Pisa,Goalkeeper,Croatia,
-Simone Scuffet (simone-scuffet),Pisa,Goalkeeper,Italy,
-Nícolas (nicolas),Pisa,Goalkeeper,Brazil,
+Lautaro Martínez (lautaro-martinez),Inter,Attacker,Argentina,10
+Marcus Thuram (marcus-thuram),Inter,Attacker,France,9
+Ange-Yoan Bonny (ange-bonny),Inter,Attacker,Côte d'Ivoire,14
+Francesco Pio Esposito (francesco-pio-esposito),Inter,Attacker,Italy,94
+Mattia Mosconi (mattia-mosconi),Inter,Attacker,Italy,48
+Hakan Çalhanoğlu (hakan-calhanoglu),Inter,Midfielder,Türkiye,20
+Nicolò Barella (nicolo-barella),Inter,Midfielder,Italy,23
+Piotr Zieliński (piotr-zielinski),Inter,Midfielder,Poland,7
+Federico Dimarco (federico-dimarco),Inter,Midfielder,Italy,32
+Denzel Dumfries (denzel-dumfries),Inter,Midfielder,Netherlands,2
+Henrikh Mkhitaryan (henrikh-mkhitaryan),Inter,Midfielder,Armenia,22
+Petar Sučić (petar-sucic),Inter,Midfielder,Croatia,8
+Luís Henrique (luis-henrique),Inter,Midfielder,Brazil,11
+Davide Frattesi (davide-frattesi),Inter,Midfielder,Italy,16
+Andy Diouf (andy-diouf),Inter,Midfielder,France,17
+Matteo Darmian (matteo-darmian),Inter,Midfielder,Italy,36
+Manuel Akanji (manuel-akanji),Inter,Defender,Switzerland,25
+Alessandro Bastoni (alessandro-bastoni),Inter,Defender,Italy,95
+Carlos Augusto (carlos-augusto),Inter,Defender,Brazil,30
+Yann Bisseck (yann-bisseck),Inter,Defender,Germany,31
+Stefan de Vrij (stefan-de-vrij),Inter,Defender,Netherlands,6
+Francesco Acerbi (francesco-acerbi),Inter,Defender,Italy,15
+Matteo Cocchi (matteo-cocchi),Inter,Defender,Italy,43
+Yann Sommer (yann-sommer),Inter,Goalkeeper,Switzerland,1
+Josep Martínez (josep-martinez),Inter,Goalkeeper,Spain,13
+Raffaele Di Gennaro (raffaele-di-gennaro),Inter,Goalkeeper,Italy,12
+Rasmus Højlund (rasmus-hojlund),SSC Napoli,Attacker,Denmark,19
+Romelu Lukaku (romelu-lukaku),SSC Napoli,Attacker,Belgium,9
+David Neres (david-neres),SSC Napoli,Attacker,Brazil,7
+Alisson Santos (alisson-santos),SSC Napoli,Attacker,Brazil,27
+Giovane (giovane),SSC Napoli,Attacker,Brazil,23
+Antonio Vergara (antonio-vergara),SSC Napoli,Attacker,Italy,26
+Kevin De Bruyne (kevin-de-bruyne),SSC Napoli,Midfielder,Belgium,11
+Scott McTominay (scott-mctominay),SSC Napoli,Midfielder,Scotland,8
+Frank Anguissa (frank-anguissa),SSC Napoli,Midfielder,Cameroon,99
+Matteo Politano (matteo-politano),SSC Napoli,Midfielder,Italy,21
+Stanislav Lobotka (stanislav-lobotka),SSC Napoli,Midfielder,Slovakia,68
+Billy Gilmour (billy-gilmour),SSC Napoli,Midfielder,Scotland,6
+Eljif Elmas (eljif-elmas),SSC Napoli,Midfielder,North Macedonia,20
+Pasquale Mazzocchi (pasquale-mazzocchi),SSC Napoli,Midfielder,Italy,30
+Giovanni Di Lorenzo (giovanni-di-lorenzo),SSC Napoli,Defender,Italy,22
+Miguel Gutiérrez (miguel-gutierrez),SSC Napoli,Defender,Spain,3
+Alessandro Buongiorno (alessandro-buongiorno),SSC Napoli,Defender,Italy,4
+Leonardo Spinazzola (leonardo-spinazzola),SSC Napoli,Defender,Italy,37
+Amir Rrahmani (amir-rrahmani),SSC Napoli,Defender,Kosovo,13
+Mathías Olivera (mathias-olivera),SSC Napoli,Defender,Uruguay,17
+Juan Jesus (juan-jesus),SSC Napoli,Defender,Brazil,5
+Sam Beukema (sam-beukema),SSC Napoli,Defender,Netherlands,31
+Vanja Milinković-Savić (vanja-milinkovic-savic),SSC Napoli,Goalkeeper,Serbia,32
+Alex Meret (alex-meret),SSC Napoli,Goalkeeper,Italy,1
+Nikita Contini (nikita-contini),SSC Napoli,Goalkeeper,Italy,14
+Mathias Ferrante (mathias-ferrante),SSC Napoli,Goalkeeper,Italy,25
+Rafael Leão (rafael-leao),Milan,Attacker,Portugal,10
+Christopher Nkunku (christopher-nkunku),Milan,Attacker,France,18
+Christian Pulišić (christian-pulisic),Milan,Attacker,USA,11
+Santiago Giménez (santiago-gimenez),Milan,Attacker,Mexico,7
+Niclas Füllkrug (niclas-fullkrug),Milan,Attacker,Germany,9
+Cheveyo Mul-Balentien (cheveyo-mul),Milan,Attacker,Suriname,25
+Luka Modrić (luka-modric),Milan,Midfielder,Croatia,14
+Pervis Estupiñán (pervis-estupinan),Milan,Midfielder,Ecuador,2
+Adrien Rabiot (adrien-rabiot),Milan,Midfielder,France,12
+Alexis Saelemaekers (alexis-saelemaekers),Milan,Midfielder,Belgium,56
+Ruben Loftus-Cheek (ruben-loftus-cheek),Milan,Midfielder,England,8
+Youssouf Fofana (youssouf-fofana),Milan,Midfielder,France,19
+Ardon Jashari (ardon-jashari),Milan,Midfielder,Switzerland,30
+Samuele Ricci (samuele-ricci),Milan,Midfielder,Italy,4
+Strahinja Pavlović (strahinja-pavlovic),Milan,Defender,Serbia,31
+Fikayo Tomori (fikayo-tomori),Milan,Defender,England,23
+Davide Bartesaghi (davide-bartesaghi),Milan,Defender,Italy,33
+Matteo Gabbia (matteo-gabbia),Milan,Defender,Italy,46
+Koni De Winter (de-winter-koni),Milan,Defender,Belgium,5
+Zachary Athekame (zachary-athekame),Milan,Defender,Switzerland,24
+David Odogu (odogu-david),Milan,Defender,Germany,27
+Mike Maignan (mike-maignan),Milan,Goalkeeper,France,16
+Lorenzo Torriani (lorenzo-torriani),Milan,Goalkeeper,Italy,96
+Pietro Terracciano (pietro-terracciano),Milan,Goalkeeper,Italy,1
+Paulo Dybala (paulo-dybala),AS Roma,Attacker,Argentina,21
+Donyell Malen (donyell-malen),AS Roma,Attacker,Netherlands,14
+Artem Dovbyk (artem-dovbyk),AS Roma,Attacker,Ukraine,9
+Matías Soulé (matias-soule),AS Roma,Attacker,Argentina,18
+Evan Ferguson (evan-ferguson),AS Roma,Attacker,Ireland,11
+Robinio Vaz (robinio-vaz),AS Roma,Attacker,France,78
+Lorenzo Pellegrini (lorenzo-pellegrini),AS Roma,Attacker,Italy,7
+Stephan El Shaarawy (stephan-el-shaarawy),AS Roma,Attacker,Italy,92
+Bryan Zaragoza (bryan-zaragoza),AS Roma,Attacker,Spain,97
+Lorenzo Venturino (lorenzo-venturino),AS Roma,Attacker,Italy,20
+Wesley (wesley-franca),AS Roma,Midfielder,Brazil,43
+Neil El Aynaoui (neil-el-aynaoui),AS Roma,Midfielder,Morocco,8
+Manu Koné (manu-kone),AS Roma,Midfielder,France,17
+Angeliño (angelino),AS Roma,Midfielder,Spain,3
+Bryan Cristante (bryan-cristante),AS Roma,Midfielder,Italy,4
+Niccolò Pisilli (niccolo-pisilli),AS Roma,Midfielder,Italy,61
+Devyne Rensch (devyne-rensch),AS Roma,Midfielder,Netherlands,2
+Kostas Tsimikas (kostas-tsimikas),AS Roma,Defender,Greece,12
+Evan Ndicka (evan-ndicka),AS Roma,Defender,Côte d'Ivoire,5
+Gianluca Mancini (gianluca-mancini),AS Roma,Defender,Italy,23
+Jan Ziółkowski (jan-ziolkowski),AS Roma,Defender,Poland,24
+Zeki Çelik (zeki-celik),AS Roma,Defender,Türkiye,19
+Mario Hermoso (mario-hermoso),AS Roma,Defender,Spain,22
+Daniele Ghilardi (daniele-ghilardi),AS Roma,Defender,Italy,87
+Mile Svilar (mile-svilar),AS Roma,Goalkeeper,Serbia,99
+Pierluigi Gollini (pierluigi-gollini),AS Roma,Goalkeeper,Italy,95
+Radosław Żelezny (radoslaw-zelezny),AS Roma,Goalkeeper,Poland,91
+Giorgio De Marzi (giorgio-de-marzi),AS Roma,Goalkeeper,USA,70
+Álvaro Morata (alvaro-morata),Como,Attacker,Spain,7
+Assane Diao (assane-diao),Como,Attacker,Senegal,38
+Anastasios Douvikas (anastasios-douvikas),Como,Attacker,Greece,11
+Nicolas-Gerrit Kühn (nicolas-gerrit-kuhn),Como,Attacker,Germany,19
+Nico Paz (nico-paz),Como,Midfielder,Argentina,10
+Martin Baturina (martin-baturina),Como,Midfielder,Croatia,20
+Sergi Roberto (sergi-roberto),Como,Midfielder,Spain,8
+Máximo Perrone (maximo-perrone),Como,Midfielder,Argentina,23
+Jesús Rodriguez (jesus-rodriguez),Como,Midfielder,Spain,17
+Jayden Addai (jayden-addai),Como,Midfielder,Netherlands,42
+Maxence Caqueret (maxence-caqueret),Como,Midfielder,France,6
+Lucas Da Cunha (lucas-da-cunha),Como,Midfielder,France,33
+Adrian Lahdo (adrian-lahdo),Como,Midfielder,Sweden,15
+Riccardo Cassano (riccardo-cassano),Como,Midfielder,Italy,49
+Jacobo Ramón (jacobo-naveros),Como,Defender,Spain,14
+Álex Valle (valle-alex),Como,Defender,Spain,3
+Diego Carlos (diego-carlos),Como,Defender,Brazil,34
+Ivan Smolčić (ivan-smolcic),Como,Defender,Croatia,28
+Mërgim Vojvoda (mergim-vojvoda),Como,Defender,Kosovo,31
+Marc Kempf (marc-kempf),Como,Defender,Germany,2
+Alberto Moreno (alberto-moreno),Como,Defender,Spain,18
+Ignace Van der Brempt (ignace-van-der-brempt),Como,Defender,Belgium,77
+Edoardo Goldaniga (edoardo-goldaniga),Como,Defender,Italy,5
+Jean Butez (jean-butez),Como,Goalkeeper,France,1
+Nikola Čavlina (nikola-cavlina),Como,Goalkeeper,Croatia,44
+Noel Törnqvist (noel-tornqvist),Como,Goalkeeper,Sweden,21
+Henrique Menke (henrique-menke),Como,Goalkeeper,Brazil,12
+Mauro Vigorito (mauro-vigorito),Como,Goalkeeper,Italy,22
+Kenan Yıldız (yildiz-kenan),Juventus,Attacker,Türkiye,10
+Dušan Vlahović (dusan-vlahovic),Juventus,Attacker,Serbia,9
+Jonathan David (jonathan-david),Juventus,Attacker,Canada,30
+Francisco Conceição (francisco-conceicao),Juventus,Attacker,Portugal,7
+Loïs Openda (lois-openda),Juventus,Attacker,Belgium,20
+Arkadiusz Milik (arkadiusz-milik),Juventus,Attacker,Poland,14
+Edon Zhegrova (edon-zhegrova),Juventus,Attacker,Kosovo,11
+Jérémie Boga (jeremie-boga),Juventus,Attacker,Côte d'Ivoire,13
+Khéphren Thuram (khephren-thuram),Juventus,Midfielder,France,19
+Manuel Locatelli (manuel-locatelli),Juventus,Midfielder,Italy,5
+Weston McKennie (weston-mckennie),Juventus,Midfielder,USA,22
+Teun Koopmeiners (teun-koopmeiners),Juventus,Midfielder,Netherlands,8
+Andrea Cambiaso (cambiaso-andrea),Juventus,Midfielder,Italy,27
+Filip Kostić (filip-kostic),Juventus,Midfielder,Serbia,18
+Vasilije Adžić (vasilije-adzic),Juventus,Midfielder,Montenegro,17
+Fabio Miretti (fabio-miretti),Juventus,Midfielder,Italy,21
+Bremer (bremer),Juventus,Defender,Brazil,3
+Pierre Kalulu (pierre-kalulu),Juventus,Defender,France,15
+Federico Gatti (federico-gatti),Juventus,Defender,Italy,4
+Juan Cabal (juan-cabal),Juventus,Defender,Colombia,32
+Lloyd Kelly (lloyd-kelly),Juventus,Defender,England,6
+Emil Holm (emil-holm),Juventus,Defender,Sweden,2
+Michele Di Gregorio (michele-di-gregorio),Juventus,Goalkeeper,Italy,16
+Mattia Perin (mattia-perin),Juventus,Goalkeeper,Italy,1
+Carlo Pinsoglio (carlo-pinsoglio),Juventus,Goalkeeper,Italy,23
+Charles De Ketelaere (charles-de-ketelaere),Atalanta,Attacker,Belgium,17
+Kamaldeen Sulemana (kamaldeen-sulemana),Atalanta,Attacker,Ghana,7
+Giacomo Raspadori (giacomo-raspadori),Atalanta,Attacker,Italy,18
+Gianluca Scamacca (gianluca-scamacca),Atalanta,Attacker,Italy,9
+Nikola Krstović (nikola-krstovic),Atalanta,Attacker,Montenegro,90
+Dominic Vavassori (dominic-vavassori),Atalanta,Attacker,Italy,45
+Nicola Zalewski (nicola-zalewski),Atalanta,Midfielder,Poland,59
+Éderson (ederson),Atalanta,Midfielder,Brazil,13
+Mario Pašalić (mario-pasalic),Atalanta,Midfielder,Croatia,8
+Lazar Samardžić (lazar-samardzic),Atalanta,Midfielder,Serbia,10
+Yunus Musah (yunus-musah),Atalanta,Midfielder,USA,6
+Raoul Bellanova (raoul-bellanova),Atalanta,Midfielder,Italy,16
+Davide Zappacosta (davide-zappacosta),Atalanta,Midfielder,Italy,77
+Marten de Roon (marten-de-roon),Atalanta,Midfielder,Netherlands,15
+Lorenzo Bernasconi (lorenzo-bernasconi),Atalanta,Midfielder,Italy,47
+Odilon Kossounou (odilon-kossounou),Atalanta,Defender,Côte d'Ivoire,3
+Sead Kolašinac (sead-kolasinac),Atalanta,Defender,Bosnia & Herzegovina,23
+Giorgio Scalvini (giorgio-scalvini),Atalanta,Defender,Italy,42
+Isak Hien (isak-hien),Atalanta,Defender,Sweden,4
+Honest Ahanor (honest-ahanor),Atalanta,Defender,Italy,69
+Berat Djimsiti (berat-djimsiti),Atalanta,Defender,Albania,19
+Mitchel Bakker (mitchel-bakker),Atalanta,Defender,Netherlands,5
+Relja Obrić (relja-obric),Atalanta,Defender,Slovenia,40
+Marco Carnesecchi (marco-carnesecchi),Atalanta,Goalkeeper,Italy,29
+Marco Sportiello (marco-sportiello),Atalanta,Goalkeeper,Italy,57
+Francesco Rossi (francesco-rossi),Atalanta,Goalkeeper,Italy,31
+Santiago Castro (santiago-castro),Bologna,Attacker,Argentina,9
+Jonathan Rowe (jonathan-rowe),Bologna,Attacker,England,11
+Thijs Dallinga (thijs-dallinga),Bologna,Attacker,Netherlands,24
+Nicolò Cambiaghi (cambiaghi-nicolo),Bologna,Attacker,Italy,28
+Riccardo Orsolini (riccardo-orsolini),Bologna,Midfielder,Italy,7
+Federico Bernardeschi (federico-bernardeschi),Bologna,Midfielder,Italy,10
+Benjamín Domínguez (benjamin-dominguez),Bologna,Midfielder,Argentina,30
+Nikola Moro (nikola-moro),Bologna,Midfielder,Croatia,6
+Lewis Ferguson (lewis-ferguson),Bologna,Midfielder,Scotland,19
+Remo Freuler (remo-freuler),Bologna,Midfielder,Switzerland,8
+Jens Odgaard (jens-odgaard),Bologna,Midfielder,Denmark,21
+Tommaso Pobega (tommaso-pobega),Bologna,Midfielder,Italy,4
+Simon Sohm (simon-sohm),Bologna,Midfielder,Switzerland,23
+Jhon Lucumí (jhon-lucumi),Bologna,Defender,Colombia,26
+João Mário (joao-mario),Bologna,Defender,Portugal,17
+Juan Miranda (juan-miranda),Bologna,Defender,Spain,33
+Nadir Zortea (zortea-nadir),Bologna,Defender,Italy,20
+Martin Vitík (martin-vitik),Bologna,Defender,Czechia,41
+Torbjørn Heggem (torbjorn-heggem),Bologna,Defender,Norway,14
+Eivind Helland (eivind-helland),Bologna,Defender,Norway,5
+Charalampos Lykogiannis (charalampos-lykogiannis),Bologna,Defender,Greece,22
+Nicolò Casale (nicolo-casale),Bologna,Defender,Italy,16
+Lorenzo De Silvestri (lorenzo-de-silvestri),Bologna,Defender,Italy,29
+Kevin Bonifazi (kevin-bonifazi),Bologna,Defender,Italy,33
+Bodin Tomašević (tomasevic-bodin),Bologna,Defender,Montenegro,15
+Łukasz Skorupski (ukasz-skorupski),Bologna,Goalkeeper,Poland,1
+Federico Ravaglia (federico-ravaglia),Bologna,Goalkeeper,Italy,13
+Massimo Pessina (massimo-pessina),Bologna,Goalkeeper,Italy,25
+Boulaye Dia (boulaye-dia),Lazio,Attacker,Senegal,19
+Pedro (pedro),Lazio,Attacker,Spain,9
+Daniel Maldini (daniel-maldini),Lazio,Attacker,Italy,27
+Mattia Zaccagni (mattia-zaccagni),Lazio,Attacker,Italy,10
+Gustav Isaksen (gustav-isaksen),Lazio,Attacker,Denmark,18
+Petar Ratkov (petar-ratkov),Lazio,Attacker,Serbia,20
+Matteo Cancellieri (matteo-cancellieri),Lazio,Attacker,Italy,22
+Tijjani Noslin (tijjani-noslin),Lazio,Attacker,Netherlands,14
+Reda Belahyane (reda-belahyane),Lazio,Midfielder,Morocco,21
+Kenneth Taylor (kenneth-taylor),Lazio,Midfielder,Netherlands,24
+Fisayo Dele-Bashiru (fisayo-dele-bashiru),Lazio,Midfielder,Nigeria,7
+Nicolò Rovella (nicolo-rovella),Lazio,Midfielder,Italy,6
+Toma Bašić (toma-basic),Lazio,Midfielder,Croatia,26
+Adrian Przyborek (przyborek-adrian),Lazio,Midfielder,Poland,28
+Danilo Cataldi (danilo-cataldi),Lazio,Midfielder,Italy,32
+Nuno Tavares (nuno-tavares),Lazio,Defender,Portugal,17
+Mario Gila (mario-gila),Lazio,Defender,Spain,34
+Alessio Romagnoli (alessio-romagnoli),Lazio,Defender,Italy,13
+Luca Pellegrini (luca-pellegrini),Lazio,Defender,Italy,3
+Elseid Hysaj (elseid-hysaj),Lazio,Defender,Albania,23
+Adam Marušić (adam-marusic),Lazio,Defender,Montenegro,77
+Samuel Gigot (samuel-gigot),Lazio,Defender,France,2
+Manuel Lazzari (manuel-lazzari),Lazio,Defender,Italy,29
+Oliver Provstgaard (oliver-provstgaard),Lazio,Defender,Denmark,25
+Patric (patric),Lazio,Defender,Spain,4
+Ivan Provedel (ivan-provedel),Lazio,Goalkeeper,Italy,94
+Edoardo Motta (edoardo-motta),Lazio,Goalkeeper,Italy,40
+Alessio Furlanetto (alessio-furlanetto),Lazio,Goalkeeper,Italy,55
+Giacomo Giacomone (giacomo-giacomone),Lazio,Goalkeeper,Italy,99
+Nicolo Pannozzo (pannozzo-nicolo),Lazio,Goalkeeper,Italy,72
+Nicolò Zaniolo (nicolo-zaniolo),Udinese,Attacker,Italy,10
+Adam Buksa (adam-buksa),Udinese,Attacker,Poland,18
+Vakoun Issouf Bayo (vakoun-issouf-bayo),Udinese,Attacker,Côte d'Ivoire,15
+Idrissa Gueye (idrissa-gueye),Udinese,Attacker,Senegal,7
+Keinan Davis (keinan-davis),Udinese,Attacker,England,9
+Arthur Atta (atta-arthur),Udinese,Midfielder,France,14
+Jakub Piotrowski (jakub-piotrowski),Udinese,Midfielder,Poland,24
+Lennon Miller (lennon-miller),Udinese,Midfielder,Scotland,38
+Jürgen Ekkelenkamp (jurgen-ekkelenkamp),Udinese,Midfielder,Netherlands,32
+Hassane Kamara (hassane-kamara),Udinese,Midfielder,Côte d'Ivoire,11
+Alessandro Zanoli (alessandro-zanoli),Udinese,Midfielder,Italy,59
+Jordan Zemura (jordan-zemura),Udinese,Midfielder,Zimbabwe,33
+Jesper Karlström (jesper-karlstrom),Udinese,Midfielder,Sweden,8
+Kingsley Ehizibue (kingsley-ehizibue),Udinese,Midfielder,Nigeria,19
+Abdoulaye Camara (abdoulaye-camara),Udinese,Midfielder,France,29
+Oier Zarraga (oier-zarraga),Udinese,Midfielder,Spain,6
+Oumar Solet (oumar-solet),Udinese,Defender,France,28
+Branimir Mlačić (branimir-mlacic),Udinese,Defender,Croatia,22
+Juan Arizala (juan-arizala),Udinese,Defender,Colombia,20
+Thomas Kristensen (thomas-kristensen),Udinese,Defender,Denmark,31
+Christian Kabasele (christian-kabasele),Udinese,Defender,Belgium,27
+Nicolò Bertola (nicolo-bertola),Udinese,Defender,Italy,13
+Maduka Okoye (maduka-okoye),Udinese,Goalkeeper,Nigeria,40
+Răzvan Sava (razvan-sava),Udinese,Goalkeeper,Romania,90
+Alessandro Nunziante (nunziante-alessandro),Udinese,Goalkeeper,Italy,1
+Daniele Padelli (daniele-padelli),Udinese,Goalkeeper,Italy,93
+Domenico Berardi (domenico-berardi),Sassuolo,Attacker,Italy,10
+Andrea Pinamonti (andrea-pinamonti),Sassuolo,Attacker,Italy,99
+Armand Laurienté (armand-lauriente),Sassuolo,Attacker,France,45
+M'bala Nzola (mbala-nzola),Sassuolo,Attacker,Angola,8
+Alieu Fadera (alieu-fadera),Sassuolo,Attacker,Gambia,20
+Luca Moro (luca-moro),Sassuolo,Attacker,Italy,24
+Nemanja Matić (nemanja-matic),Sassuolo,Midfielder,Serbia,18
+Ismael Koné (ismael-kone),Sassuolo,Midfielder,Canada,90
+Kristian Thorstvedt (kristian-thorstvedt),Sassuolo,Midfielder,Norway,42
+Darryl Bakola (darryl-bakola),Sassuolo,Midfielder,France,50
+Aster Vranckx (aster-vranckx),Sassuolo,Midfielder,Belgium,40
+Cristian Volpato (cristian-volpato),Sassuolo,Midfielder,Italy,7
+Luca Lipani (luca-lipani),Sassuolo,Midfielder,Italy,35
+Daniel Boloca (daniel-boloca),Sassuolo,Midfielder,Italy,11
+Edoardo Iannoni (edoardo-iannoni),Sassuolo,Midfielder,Italy,44
+Christian Frangella (christian-frangella),Sassuolo,Midfielder,Italy,33
+Jay Idzes (jay-idzes),Sassuolo,Defender,Indonesia,21
+Tarik Muharemović (tarik-muharemovic),Sassuolo,Defender,Bosnia & Herzegovina,80
+Woyo Coulibaly (woyo-coulibaly),Sassuolo,Defender,Mali,25
+Sebastian Walukiewicz (sebastian-walukiewicz),Sassuolo,Defender,Poland,6
+Josh Doig (josh-doig),Sassuolo,Defender,Scotland,3
+Ulisses Garcia (ulisses-garcia),Sassuolo,Defender,Switzerland,23
+Pedro Felipe (pedro-felipe),Sassuolo,Defender,Brazil,66
+Fali Candé (fali-cande),Sassuolo,Defender,Guinea-Bissau,5
+Edoardo Pieragnolo (edoardo-pieragnolo),Sassuolo,Defender,Italy,15
+Filippo Romagna (filippo-romagna),Sassuolo,Defender,Italy,19
+Tommaso Macchioni (tommaso-macchioni),Sassuolo,Defender,Italy,31
+Arijanet Murić (arijanet-muric),Sassuolo,Goalkeeper,Kosovo,49
+Stefano Turati (stefano-turati),Sassuolo,Goalkeeper,Italy,13
+Gioele Zacchi (gioele-zacchi),Sassuolo,Goalkeeper,Italy,16
+Giacomo Satalino (giacomo-satalino),Sassuolo,Goalkeeper,Italy,12
+Giovanni Simeone (giovanni-simeone),Torino,Attacker,Argentina,18
+Zakaria Aboukhlal (zakaria-aboukhlal),Torino,Attacker,Morocco,7
+Duván Zapata (duvan-zapata),Torino,Attacker,Colombia,91
+Sandro Kulenović (sandro-kulenovic),Torino,Attacker,Croatia,17
+Che Adams (che-adams),Torino,Attacker,Scotland,19
+Alieu Njie (alieu-njie),Torino,Attacker,Sweden,92
+Cesare Casadei (cesare-casadei),Torino,Midfielder,Italy,22
+Nikola Vlašić (nikola-vlasic),Torino,Midfielder,Croatia,10
+Ivan Ilić (ivan-ilic),Torino,Midfielder,Serbia,8
+Gvidas Gineitis (gineitis-gvidas),Torino,Midfielder,Lithuania,66
+Emirhan İlkhan (emirhan-ilkhan),Torino,Midfielder,Türkiye,6
+Tino Anjorin (tino-anjorin),Torino,Midfielder,England,14
+Valentino Lazaro (valentino-lazaro),Torino,Midfielder,Austria,20
+Matteo Prati (matteo-prati),Torino,Midfielder,Italy,4
+Marcus Pedersen (marcus-pedersen),Torino,Midfielder,Norway,16
+Sergiu Perciun (sergiu-perciun),Torino,Midfielder,Moldova,83
+Zanos Savva (zanos-savva),Torino,Midfielder,Cyprus,79
+Wisdom Acquah (wisdom-acquah),Torino,Midfielder,Italy,94
+Guillermo Maripán (guillermo-maripan),Torino,Defender,Chile,13
+Rafael Obrador (rafael-obrador),Torino,Defender,Spain,33
+Cristiano Biraghi (cristiano-biraghi),Torino,Defender,Italy,34
+Saúl Coco (saul-coco),Torino,Defender,Equatorial Guinea,23
+Ardian Ismajli (ardian-ismajli),Torino,Defender,Albania,44
+Saba Sazonov (saba-sazonov),Torino,Defender,Georgia,15
+Luca Marianucci (marianucci-luca),Torino,Defender,Italy,35
+Niels Nkounkou (niels-nkounkou),Torino,Defender,France,25
+Enzo Ebosse (enzo-ebosse),Torino,Defender,Cameroon,77
+Adrien Tameze (adrien-tameze),Torino,Defender,France,61
+Mattia Pellini (mattia-pellini),Torino,Defender,Italy,93
+Franco Israel (franco-israel),Torino,Goalkeeper,Uruguay,81
+Alberto Paleari (alberto-paleari),Torino,Goalkeeper,Italy,1
+Lapo Siviero (siviero-lapo),Torino,Goalkeeper,Italy,99
+Mateo Pellegrino (pellegrino-mateo),Parma,Attacker,Argentina,9
+Matija Frigan (matija-frigan),Parma,Attacker,Croatia,20
+Jacob Ondrejka (jacob-ondrejka),Parma,Attacker,Sweden,17
+Nesta Elphege (elphege-nesta),Parma,Attacker,France,23
+Daniel Mikołajewski (daniel-mikolajewski),Parma,Attacker,Poland,76
+Pontus Almqvist (pontus-almqvist),Parma,Attacker,Sweden,11
+Benjamin Cremaschi (cremaschi-benjamin),Parma,Midfielder,USA,25
+Gabriel Strefezza (gabriel-strefezza),Parma,Midfielder,Brazil,7
+Adrián Bernabé (adrian-bernabe),Parma,Midfielder,Spain,10
+Hans Nicolussi Caviglia (hans-nicolussi-caviglia),Parma,Midfielder,Italy,41
+Mandela Keita (mandela-keita),Parma,Midfielder,Belgium,16
+Franco Carboni (franco-carboni),Parma,Midfielder,Argentina,29
+Gaetano Oristanio (gaetano-oristanio),Parma,Midfielder,Italy,21
+Emanuele Valeri (emanuele-valeri),Parma,Midfielder,Italy,14
+Christian Ordoñez (christian-ordonez),Parma,Midfielder,Argentina,24
+Oliver Sørensen (oliver-sorensen),Parma,Midfielder,Denmark,22
+Nahuel Estévez (nahuel-estevez),Parma,Midfielder,Argentina,8
+Alessandro Cardinali (alessandro-cardinali),Parma,Midfielder,Italy,75
+Edoardo Tigani (edoardo-tigani),Parma,Midfielder,Italy,77
+Mariano Troilo (mariano-troilo),Parma,Defender,Argentina,37
+Abdoulaye Ndiaye (abdoulaye-ndiaye),Parma,Defender,Senegal,3
+Alessandro Circati (alessandro-circati),Parma,Defender,Australia,39
+Enrico Delprato (enrico-del-prato),Parma,Defender,Italy,15
+Lautaro Valenti (lautaro-valenti),Parma,Defender,Argentina,5
+Sascha Britschgi (sascha-britschgi),Parma,Defender,Switzerland,27
+Marlon Mena (marlon-mena),Parma,Defender,Dominican Republic,63
+Zion Suzuki (suzuki-zion),Parma,Goalkeeper,Japan,31
+Edoardo Corvi (edoardo-corvi),Parma,Goalkeeper,Italy,40
+Filippo Rinaldi (filippo-rinaldi),Parma,Goalkeeper,Italy,66
+Gianluca Astaldi (gianluca-astaldi),Parma,Goalkeeper,Italy,64
+Lorenzo Colombo (lorenzo-colombo),Genoa,Attacker,Italy,29
+Vitinha (vitinha),Genoa,Attacker,Portugal,9
+Maxwel Cornet (maxwel-cornet),Genoa,Attacker,Côte d'Ivoire,70
+Junior Messias (junior-messias),Genoa,Attacker,Brazil,10
+Caleb Ekuban (caleb-ekuban),Genoa,Attacker,Ghana,18
+Jeff Ekhator (jeff-ekhator),Genoa,Attacker,Italy,21
+Ruslan Malinovskyi (ruslan-malinovskyi),Genoa,Midfielder,Ukraine,17
+Tommaso Baldanzi (tommaso-baldanzi),Genoa,Midfielder,Italy,8
+Morten Frendrup (morten-frendrup),Genoa,Midfielder,Denmark,32
+Jean Onana (jean-onana),Genoa,Midfielder,Cameroon,14
+Alexsandro Amorim (amorim),Genoa,Midfielder,Brazil,4
+Mikael Ellertsson (mikael-ellertsson),Genoa,Midfielder,Iceland,77
+Patrizio Masini (patrizio-masini),Genoa,Midfielder,Italy,73
+Gael Lafont (gael-lafont),Genoa,Midfielder,France,75
+Jacopo Grossi (jacopo-grossi),Genoa,Midfielder,Italy,80
+Johan Vásquez (johan-vasquez),Genoa,Defender,Mexico,22
+Leo Østigård (leo-ostigard),Genoa,Defender,Norway,5
+Brooke Norton-Cuffy (brooke-norton-cuffy),Genoa,Defender,England,15
+Aarón Martín (aaron-martin),Genoa,Defender,Spain,3
+Nils Zätterström (nils-zatterstrom),Genoa,Defender,Sweden,13
+Sebastian Otoa (sebastian-otoa),Genoa,Defender,Denmark,34
+Alessandro Marcandalli (alessandro-marcandalli),Genoa,Defender,Italy,27
+Wedtoin Latif Ouedraogo (wedtoin-latif-ouedraogo),Genoa,Defender,Burkina Faso,99
+Stefano Sabelli (stefano-sabelli),Genoa,Defender,Italy,20
+Lukas Klisys (lukas-klisys),Genoa,Defender,Lithuania,40
+Mamedi Doucoure (mamedi-doucoure),Genoa,Defender,France,74
+Justin Bijlow (justin-bijlow),Genoa,Goalkeeper,Netherlands,16
+Nicola Leali (nicola-leali),Genoa,Goalkeeper,Italy,1
+Benjamin Siegrist (benjamin-siegrist),Genoa,Goalkeeper,Switzerland,31
+Daniele Sommariva (daniele-sommariva),Genoa,Goalkeeper,Italy,39
+Ernestas Lysionok (ernestas-lysionok),Genoa,Goalkeeper,Lithuania,35
+Moise Kean (moise-kean),Fiorentina,Attacker,Italy,20
+Albert Guðmundsson (albert-gudmundsson),Fiorentina,Attacker,Iceland,10
+Roberto Piccoli (roberto-piccoli),Fiorentina,Attacker,Italy,91
+Jack Harrison (jack-harrison),Fiorentina,Attacker,England,17
+Jacopo Fazzini (jacopo-fazzini),Fiorentina,Attacker,Italy,22
+Riccardo Braschi (riccardo-braschi),Fiorentina,Attacker,Italy,61
+Manor Solomon (manor-solomon),Fiorentina,Midfielder,Israel,19
+Nicolò Fagioli (nicolo-fagioli),Fiorentina,Midfielder,Italy,44
+Abdelhamid Sabiri (abdelhamid-sabiri),Fiorentina,Midfielder,Morocco,11
+Dodô (dodo),Fiorentina,Midfielder,Brazil,2
+Robin Gosens (robin-gosens),Fiorentina,Midfielder,Germany,21
+Cher Ndour (cher-ndour),Fiorentina,Midfielder,Italy,27
+Rolando Mandragora (rolando-mandragora),Fiorentina,Midfielder,Italy,8
+Giovanni Fabbian (giovanni-fabbian),Fiorentina,Midfielder,Italy,80
+Marco Brescianini (marco-brescianini),Fiorentina,Midfielder,Italy,4
+Niccolò Fortini (niccolo-fortini),Fiorentina,Midfielder,Italy,29
+Marin Pongračić (marin-pongracic),Fiorentina,Defender,Croatia,5
+Eman Košpo (eman-kospo),Fiorentina,Defender,Bosnia & Herzegovina,23
+Daniele Rugani (daniele-rugani),Fiorentina,Defender,Italy,3
+Pietro Comuzzo (comuzzo-pietro),Fiorentina,Defender,Italy,15
+Luca Ranieri (luca-ranieri),Fiorentina,Defender,Italy,6
+Fabiano Parisi (fabiano-parisi),Fiorentina,Defender,Italy,65
+Luís Balbo (luis-balbo),Fiorentina,Defender,Venezuela,62
+Eddy Kouadio (eddy-kouadio),Fiorentina,Defender,Italy,60
+David De Gea (david-de-gea),Fiorentina,Goalkeeper,Spain,43
+Oliver Christensen (oliver-christensen),Fiorentina,Goalkeeper,Denmark,53
+Luca Lezzerini (luca-lezzerini),Fiorentina,Goalkeeper,Italy,1
+Semih Kılıçsoy (semih-kilicsoy),Cagliari,Attacker,Türkiye,9
+Sebastiano Esposito (sebastiano-esposito),Cagliari,Attacker,Italy,94
+Andrea Belotti (andrea-belotti),Cagliari,Attacker,Italy,19
+Paul Mendy (paul-mendy),Cagliari,Attacker,Senegal,31
+Leonardo Pavoletti (leonardo-pavoletti),Cagliari,Attacker,Italy,30
+Gennaro Borrelli (gennaro-borrelli),Cagliari,Attacker,Italy,29
+Mattia Felici (mattia-felici),Cagliari,Attacker,Italy,17
+Yael Trepy (yael-trepy),Cagliari,Attacker,France,37
+Marco Palestra (palestra-marco),Cagliari,Midfielder,Italy,2
+Sulemana (sulemana),Cagliari,Midfielder,Ghana,25
+Michael Folorunsho (michael-folorunsho),Cagliari,Midfielder,Italy,90
+Gianluca Gaetano (gianluca-gaetano),Cagliari,Midfielder,Italy,10
+Michel Adopo (michel-ndary-adopo),Cagliari,Midfielder,France,8
+Joseph Liteta (joseph-liteta),Cagliari,Midfielder,Zambia,27
+Luca Mazzitelli (luca-mazzitelli),Cagliari,Midfielder,Italy,4
+Alessandro Deiola (alessandro-deiola),Cagliari,Midfielder,Italy,14
+Agustín Albarracín (agustin-albarracin),Cagliari,Midfielder,Uruguay,20
+Yerry Mina (yerry-mina),Cagliari,Defender,Colombia,26
+Mateusz Wieteska (mateusz-wieteska),Cagliari,Defender,Poland,4
+Juan Rodríguez (rodriguez-juan),Cagliari,Defender,Uruguay,15
+Adam Obert (adam-obert),Cagliari,Defender,Slovakia,33
+Zé Pedro (ze-pedro),Cagliari,Defender,Portugal,32
+Gabriele Zappa (gabriele-zappa),Cagliari,Defender,Italy,28
+Alberto Dossena (alberto-dossena),Cagliari,Defender,Italy,22
+Riyad Idrissi (riyad-idrissi),Cagliari,Defender,Italy,3
+Othniël Raterink (othniel-raterink),Cagliari,Defender,Netherlands,18
+Elia Caprile (elia-caprile),Cagliari,Goalkeeper,Italy,1
+Alen Sherri (alen-sherri),Cagliari,Goalkeeper,Albania,12
+Giuseppe Ciocci (giuseppe-ciocci),Cagliari,Goalkeeper,Italy,24
+Francesco Camarda (camarda-francesco),Lecce,Attacker,Italy,22
+Walid Cheddira (walid-cheddira),Lecce,Attacker,Morocco,99
+Riccardo Sottil (riccardo-sottil),Lecce,Attacker,Italy,23
+Nikola Štulić (nikola-stulic),Lecce,Attacker,Serbia,9
+Santiago Pierotti (santiago-pierotti),Lecce,Attacker,Argentina,50
+N'Dri Konan (ndri-konan),Lecce,Attacker,Côte d'Ivoire,11
+Lameck Banda (lameck-banda),Lecce,Midfielder,Zambia,19
+Lassana Coulibaly (lassana-coulibaly),Lecce,Midfielder,Mali,29
+Filip Marchwiński (filip-marchwinski),Lecce,Midfielder,Poland,36
+Medon Berisha (medon-berisha),Lecce,Midfielder,Albania,10
+Oumar Ngom (oumar-ngom),Lecce,Midfielder,Mauritania,79
+Ylber Ramadani (ylber-ramadani),Lecce,Midfielder,Albania,20
+Omri Gandelman (omri-gandelman),Lecce,Midfielder,Israel,16
+Sadik Fofana (sadik-fofana),Lecce,Midfielder,Togo,8
+Þórir Jóhann Helgason (thorir-johann-helgason),Lecce,Midfielder,Iceland,14
+Alex Sala (alex-sala),Lecce,Midfielder,Spain,6
+Olaf Gorter (olaf-gorter),Lecce,Midfielder,Netherlands,28
+Tiago Gabriel (tiago-gabriel),Lecce,Defender,Portugal,44
+Kialonda Gaspar (kialonda-gaspar),Lecce,Defender,Angola,4
+Matías Pérez (matias-ignacio-perez-sepulveda),Lecce,Defender,Chile,13
+Antonino Gallo (antonino-gallo),Lecce,Defender,Italy,25
+Danilo Veiga (danilo-veiga),Lecce,Defender,Portugal,17
+Jamil Siebert (jamil-siebert),Lecce,Defender,Germany,5
+Corrie Ndaba (corrie-ndaba),Lecce,Defender,Ireland,3
+Gaby Jean (gaby-jean),Lecce,Defender,France,18
+Wladimiro Falcone (wladimiro-falcone),Lecce,Goalkeeper,Italy,30
+Christian Früchtl (christian-fruchtl),Lecce,Goalkeeper,Germany,1
+Jasper Samooja (samooja-jasper),Lecce,Goalkeeper,Finland,32
+Jamie Vardy (jamie-vardy),Cremonese,Attacker,England,10
+Antonio Sanabria (antonio-sanabria),Cremonese,Attacker,Paraguay,99
+Faris Moumbagna (faris-pemi-moumbagna),Cremonese,Attacker,Cameroon,14
+Federico Bonazzoli (federico-bonazzoli),Cremonese,Attacker,Italy,90
+David Okereke (david-okereke),Cremonese,Attacker,Nigeria,77
+Milan Đurić (milan-uric),Cremonese,Attacker,Bosnia & Herzegovina,9
+Warren Bondo (warren-bondo),Cremonese,Midfielder,France,38
+Romano Floriani Mussolini (romano-floriani-mussolini),Cremonese,Midfielder,Italy,22
+Youssef Maleh (youssef-maleh),Cremonese,Midfielder,Morocco,29
+Alessio Zerbin (alessio-zerbin),Cremonese,Midfielder,Italy,7
+Jari Vandeputte (jari-vandeputte),Cremonese,Midfielder,Belgium,27
+Martín Payero (martin-payero),Cremonese,Midfielder,Argentina,32
+Morten Thorsby (morten-thorsby),Cremonese,Midfielder,Norway,2
+Giuseppe Pezzella (giuseppe-pezzella),Cremonese,Midfielder,Italy,3
+Tommaso Barbieri (tommaso-barbieri),Cremonese,Midfielder,Italy,4
+Michele Collocolo (michele-collocolo),Cremonese,Midfielder,Italy,18
+Alberto Grassi (alberto-grassi),Cremonese,Midfielder,Italy,33
+Mikayil Faye (mikayil-faye),Cremonese,Defender,Senegal,30
+Filippo Terracciano (filippo-terracciano),Cremonese,Defender,Italy,24
+Federico Baschirotto (federico-baschirotto),Cremonese,Defender,Italy,6
+Sebastiano Luperto (sebastiano-luperto),Cremonese,Defender,Italy,5
+Matteo Bianchetti (matteo-bianchetti),Cremonese,Defender,Italy,15
+Francesco Folino (francesco-folino),Cremonese,Defender,Italy,55
+Federico Ceccherini (federico-ceccherini),Cremonese,Defender,Italy,23
+Emil Audero (emil-audero),Cremonese,Goalkeeper,Indonesia,1
+Lapo Nava (lapo-nava),Cremonese,Goalkeeper,Italy,69
+Marco Silvestri (marco-silvestri),Cremonese,Goalkeeper,Italy,16
+Marco Cassin (marco-cassin),Cremonese,Goalkeeper,Italy,96
+Gift Orban (gift-orban),Hellas Verona,Attacker,Nigeria,16
+Tomáš Suslov (tomas-suslov),Hellas Verona,Attacker,Slovakia,10
+Daniel Mosquera (daniel-mosquera),Hellas Verona,Attacker,Colombia,25
+Amin Sarr (amin-sarr),Hellas Verona,Attacker,Sweden,9
+Kieron Bowie (kieron-bowie),Hellas Verona,Attacker,Scotland,18
+Isaac (isaac),Hellas Verona,Attacker,Brazil,41
+Ioan Vermesan (ioan-vermesan),Hellas Verona,Attacker,Romania,90
+Junior Ajayi (junior-ajayi),Hellas Verona,Attacker,Nigeria,72
+Rafik Belghali (belghali-rafik),Hellas Verona,Midfielder,Algeria,7
+Moatasem Al-Musrati (moatasem-al-musrati),Hellas Verona,Midfielder,Libya,73
+Domagoj Bradarić (domagoj-bradaric),Hellas Verona,Midfielder,Croatia,12
+Cheikh Niasse (cheikh-niasse),Hellas Verona,Midfielder,Senegal,36
+Abdou Harroui (abdou-harroui),Hellas Verona,Midfielder,Morocco,21
+Sandi Lovrić (sandi-lovric),Hellas Verona,Midfielder,Slovenia,4
+Suat Serdar (suat-serdar),Hellas Verona,Midfielder,Germany,8
+Roberto Gagliardini (roberto-gagliardini),Hellas Verona,Midfielder,Italy,63
+Jean Daniel Akpa-Akpro (jean-akpa),Hellas Verona,Midfielder,Côte d'Ivoire,11
+Antoine Bernede (antoine-bernede),Hellas Verona,Midfielder,France,24
+Daniel Oyegoke (daniel-oyegoke),Hellas Verona,Midfielder,England,2
+Victor Nelsson (victor-nelsson),Hellas Verona,Defender,Denmark,15
+Nicolás Valentini (nicolas-valentini),Hellas Verona,Defender,Argentina,6
+Armel Bella-Kotchap (armel-bella-kotchap),Hellas Verona,Defender,Germany,37
+Pol Lirola (pol-lirola),Hellas Verona,Defender,Spain,14
+Tobias Slotsager (tobias-slotsager),Hellas Verona,Defender,Denmark,19
+Martin Frese (martin-frese),Hellas Verona,Defender,Denmark,3
+Andrias Edmundsson (andrias-edmundsson),Hellas Verona,Defender,Faroe Islands,5
+Fallou Cham (fallou-cham),Hellas Verona,Defender,Gambia,70
+Lorenzo Montipò (lorenzo-montipo),Hellas Verona,Goalkeeper,Italy,1
+Simone Perilli (simone-perilli),Hellas Verona,Goalkeeper,Italy,34
+Giacomo Toniolo (giacomo-toniolo),Hellas Verona,Goalkeeper,Italy,94
+Arthur Borghi (arthur-rampineli-borghi),Hellas Verona,Goalkeeper,Brazil,47
+Samuel Iling Junior (samuel-iling-junior),Pisa,Attacker,England,19
+Rafiu Durosinmi (rafiu-durosinmi),Pisa,Attacker,Nigeria,17
+Matteo Tramoni (matteo-tramoni),Pisa,Attacker,France,10
+Stefano Moreo (stefano-moreo),Pisa,Attacker,Italy,32
+Henrik Wendel Meister (henrik-wendel-meister),Pisa,Attacker,Denmark,9
+Filip Stojilković (filip-stojilkovic),Pisa,Attacker,Switzerland,81
+Juan Cuadrado (juan-cuadrado),Pisa,Midfielder,Colombia,11
+Lorran (lorran),Pisa,Midfielder,Brazil,99
+Felipe Loyola (loyola-felipe),Pisa,Midfielder,Chile,35
+Ebenezer Akinsanmiro (ebenezer-akinsanmiro),Pisa,Midfielder,Nigeria,14
+Calvin Stengs (calvin-stengs),Pisa,Midfielder,Netherlands,23
+Mehdi Léris (mehdi-leris),Pisa,Midfielder,Algeria,7
+Marius Marin (marius-marin),Pisa,Midfielder,Romania,6
+Michel Aebischer (michel-aebischer),Pisa,Midfielder,Switzerland,20
+Isak Vural (isak-vural),Pisa,Midfielder,Türkiye,21
+Idrissa Touré (idrissa-toure),Pisa,Midfielder,Germany,15
+Samuele Angori (samuele-angori),Pisa,Midfielder,Italy,3
+Malthe Højholt (malthe-hojholt),Pisa,Midfielder,Denmark,8
+Gabriele Piccinini (gabriele-piccinini),Pisa,Midfielder,Italy,36
+Brando Bettazzi (brando-bettazzi),Pisa,Midfielder,Italy,42
+Raúl Albiol (raul-albiol),Pisa,Defender,Spain,39
+Rosen Bozhinov (rosen-bozhinov),Pisa,Defender,Bulgaria,2
+Simone Canestrelli (simone-canestrelli),Pisa,Defender,Italy,5
+Antonio Caracciolo (antonio-caracciolo),Pisa,Defender,Italy,4
+Francesco Coppola (coppola-francesco),Pisa,Defender,Italy,26
+Arturo Calabresi (arturo-calabresi),Pisa,Defender,Italy,33
+Daniel Denoon (daniel-denoon),Pisa,Defender,Switzerland,44
+Adrian Šemper (adrian-semper),Pisa,Goalkeeper,Croatia,1
+Simone Scuffet (simone-scuffet),Pisa,Goalkeeper,Italy,22
+Nícolas (nicolas),Pisa,Goalkeeper,Brazil,12
