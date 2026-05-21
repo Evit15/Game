@@ -1,86 +1,96 @@
-import requests
+from curl_cffi import requests
 import pandas as pd
 import time
-from lxml import html
 
-headers = {
-    "User-Agent": "Mozilla/5.0"
+session = requests.Session()
+
+# Impersonate Chrome mới nhất
+session.headers.update({
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/135.0.0.0 Safari/537.36"
+    ),
+    "Accept": "application/json, text/plain, */*",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Origin": "https://www.sofascore.com",
+    "Referer": "https://www.sofascore.com/",
+})
+
+TOURNAMENT_ID = 23  # Serie A
+
+POSITION_MAP = {
+    "G": "Goalkeeper",
+    "D": "Defender",
+    "M": "Midfielder",
+    "F": "Attacker"
 }
 
-base_url = "https://bongda24h.vn/cau-thu-serie-a-g3.html?page={}"
+# ====================================
+# GET SEASONS
+# ====================================
+season_url = f"https://api.sofascore.com/api/v1/unique-tournament/{TOURNAMENT_ID}/seasons"
 
-players = []
-page = 1
+resp = session.get(season_url, impersonate="chrome")
+season_data = resp.json()
 
-while True:
-    url = base_url.format(page)
+if "error" in season_data:
+    print("Error:", season_data.get("error"))
+    print(resp.text)
+    exit(1)
 
-    print(f"Scraping page {page}: {url}")
+# Lấy season mới nhất
+season_id = season_data["seasons"][0]["id"]
+print("Season ID:", season_id)
 
-    response = requests.get(url, headers=headers)
+# ====================================
+# GET TEAMS
+# ====================================
+standings_url = f"https://api.sofascore.com/api/v1/unique-tournament/{TOURNAMENT_ID}/season/{season_id}/standings/total"
+standings_data = session.get(standings_url, impersonate="chrome").json()
 
-    if response.status_code != 200:
-        print("No more pages.")
-        break
-    # Force UTF-8
-    response.encoding = "utf-8"
-    tree = html.fromstring(response.text)
+rows = standings_data["standings"][0]["rows"]
 
-    # XPath table user cung cấp
-    rows = tree.xpath(
-        "/html/body/main/div[2]/section/div/section[1]/div/div[1]/div/div/table/tbody/tr"
-    )
+teams = [{"team_id": row["team"]["id"], "club": row["team"]["name"]} for row in rows]
 
-    if not rows:
-        print("No rows found.")
-        break
+# ====================================
+# GET PLAYERS
+# ====================================
+all_players = []
 
-    page_count = 0
+for team in teams:
+    team_id = team["team_id"]
+    club = team["club"]
+    print(f"Getting players from {club}")
 
-    for row in rows:
-        cols = row.xpath("./td")
+    url = f"https://api.sofascore.com/api/v1/team/{team_id}/players"
 
-        # Skip image column
-        if len(cols) >= 5:
-            try:
-                player_name = cols[0].text_content().strip()
-                position = cols[1].text_content().strip()
-                nationality = cols[2].text_content().strip()
-                club = cols[3].text_content().strip()
-                squad_number = cols[4].text_content().strip()
+    try:
+        data = session.get(url, impersonate="chrome").json()
+        players = data.get("players", [])
 
-                players.append({
-                    "player_name": player_name,
-                    "club": club,
-                    "position": position,
-                    "nationality": nationality,
-                    "squad_number": squad_number
-                })
+        for item in players:
+            player = item.get("player", {})
+            position_raw = player.get("position")
 
-                page_count += 1
+            all_players.append({
+                "player_name": f"{player.get('name')} ({player.get('slug')})",
+                "club": club,
+                "position": POSITION_MAP.get(position_raw, position_raw),
+                "country": player.get("country", {}).get("name"),
+                "shirt_number": item.get("shirtNumber")
+            })
 
-            except Exception as e:
-                print("Error:", e)
+        time.sleep(1.2)  # Nghỉ lâu hơn một chút
 
-    print(f" -> Collected {page_count} players")
+    except Exception as e:
+        print("ERROR:", club, e)
 
-    if page_count == 0:
-        break
+# ====================================
+# EXPORT
+# ====================================
+df = pd.DataFrame(all_players).drop_duplicates()
+df.to_csv("serie_a_players.csv", index=False, encoding="utf-8-sig")
 
-    page += 1
-
-    time.sleep(1)
-
-# Create dataframe
-df = pd.DataFrame(players)
-
-# Remove duplicates
-df = df.drop_duplicates()
-
-# Export CSV
-csv_file = "serie_a_players.csv"
-
-df.to_csv(csv_file, index=False, encoding="utf-8-sig")
-
-print(f"\nSaved {len(df)} players to {csv_file}")
 print(df.head())
+print(f"Saved {len(df)} players")
