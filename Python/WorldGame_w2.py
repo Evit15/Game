@@ -2,7 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 import time
-import os
 
 
 BASE = "https://worldcupranking.com"
@@ -10,7 +9,6 @@ BASE = "https://worldcupranking.com"
 START_URL = (
     BASE + "/world-cup-2026/squads/"
 )
-
 
 OUTPUT = "worldcup2026_players.csv"
 
@@ -25,7 +23,7 @@ POSITION_MAP = {
 
 HEADERS = {
     "User-Agent":
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+    "Mozilla/5.0"
 }
 
 
@@ -45,9 +43,9 @@ def clean_nation(slug):
 
 
 
-def request_html(url):
+def get_html(url):
 
-    for attempt in range(3):
+    for i in range(3):
 
         try:
 
@@ -63,14 +61,14 @@ def request_html(url):
 
 
             log(
-                f"HTTP {r.status_code}: {url}"
+                f"HTTP {r.status_code} {url}"
             )
 
 
         except Exception as e:
 
             log(
-                f"Request error {attempt+1}: {e}"
+                f"Request error {e}"
             )
 
 
@@ -81,15 +79,14 @@ def request_html(url):
 
 
 
-def save_debug(name, html):
+def save_debug(nation, html):
 
     filename = (
         "debug_"
-        + name.lower()
+        + nation.lower()
         .replace(" ", "_")
         + ".html"
     )
-
 
     with open(
         filename,
@@ -106,17 +103,15 @@ def save_debug(name, html):
 
 
 
-# ==========================
-# Load teams
-# ==========================
+# =====================
+# GET TEAM LIST
+# =====================
 
 
-log(
-    "Loading team list"
-)
+log("Loading teams")
 
 
-html = request_html(
+html = get_html(
     START_URL
 )
 
@@ -124,7 +119,7 @@ html = request_html(
 if not html:
 
     raise Exception(
-        "Cannot load start page"
+        "Cannot load WorldCupRanking"
     )
 
 
@@ -159,6 +154,7 @@ for a in soup.find_all(
             )
 
 
+
 log(
     f"Found {len(team_links)} teams"
 )
@@ -169,9 +165,9 @@ players = []
 
 
 
-# ==========================
-# Parse teams
-# ==========================
+# =====================
+# PARSE EACH TEAM
+# =====================
 
 
 for idx, team_url in enumerate(
@@ -197,7 +193,7 @@ for idx, team_url in enumerate(
     )
 
 
-    html = request_html(
+    html = get_html(
         BASE + team_url
     )
 
@@ -218,7 +214,6 @@ for idx, team_url in enumerate(
     )
 
 
-
     tables = soup.find_all(
         "table"
     )
@@ -230,28 +225,134 @@ for idx, team_url in enumerate(
 
 
 
-    if len(tables) == 0:
-
-        save_debug(
-            nation,
-            html
-        )
-
-        continue
-
-
-
     team_count = 0
 
 
 
-    # thử tất cả table
     for table in tables:
 
 
         rows = table.find_all(
             "tr"
         )
+
+
+        if len(rows) < 2:
+            continue
+
+
+
+        header = None
+
+
+        # ----------------
+        # FIND HEADER
+        # ----------------
+
+        for row in rows[:5]:
+
+            cols = [
+                c.get_text(
+                    " ",
+                    strip=True
+                )
+                for c in row.find_all(
+                    ["th","td"]
+                )
+            ]
+
+
+            text = (
+                " ".join(cols)
+                .lower()
+            )
+
+
+            if (
+                "pos" in text
+                and (
+                    "club" in text
+                    or "#" in text
+                )
+            ):
+
+                header = [
+                    x.lower()
+                    for x in cols
+                ]
+
+                break
+
+
+
+        if not header:
+
+            continue
+
+
+
+        log(
+            f"{nation}: header={header}"
+        )
+
+
+
+        name_idx = None
+        pos_idx = None
+        number_idx = None
+        club_idx = None
+
+
+
+        for i, col in enumerate(header):
+
+
+            if (
+                "name" in col
+                or "shirt" in col
+            ):
+
+                name_idx = i
+
+
+            elif col == "pos":
+
+                pos_idx = i
+
+
+            elif col == "#":
+
+                number_idx = i
+
+
+            elif "club" in col:
+
+                club_idx = i
+
+
+
+        log(
+            f"{nation}: "
+            f"name={name_idx}, "
+            f"pos={pos_idx}, "
+            f"num={number_idx}, "
+            f"club={club_idx}"
+        )
+
+
+
+        if (
+            name_idx is None
+            or pos_idx is None
+        ):
+
+            continue
+
+
+
+        # ----------------
+        # PARSE ROWS
+        # ----------------
 
 
         for row in rows:
@@ -263,150 +364,95 @@ for idx, team_url in enumerate(
                     strip=True
                 )
                 for c in row.find_all(
-                    [
-                        "td",
-                        "th"
-                    ]
+                    ["td","th"]
                 )
             ]
 
 
-            if not cols:
+
+            if len(cols) <= pos_idx:
 
                 continue
 
 
 
-            text = (
-                " ".join(cols)
-                .lower()
-            )
+            # skip header
+
+            if [
+                x.lower()
+                for x in cols
+            ] == header:
+
+                continue
 
 
 
-            # remove header
+            pos = cols[pos_idx]
+
+
+            if pos not in POSITION_MAP:
+
+                continue
+
+
+
+            name = cols[name_idx]
+
+
 
             if (
-                "name on shirt"
-                in text
-                or (
-                    "pos"
-                    in text
-                    and "club"
-                    in text
-                )
-                or "#" == cols[0]
+                not name
+                or name.isdigit()
             ):
 
-                log(
-                    f"{nation}: skip header {cols}"
-                )
-
                 continue
 
 
 
-            # find position
+            number = ""
 
-            pos = None
-
-
-            for c in cols:
-
-                if c in POSITION_MAP:
-
-                    pos = c
-
-                    break
+            club = ""
 
 
 
-            if not pos:
+            if (
+                number_idx is not None
+                and number_idx < len(cols)
+            ):
 
-                continue
+                number = cols[number_idx]
 
 
 
-            pos_index = cols.index(
-                pos
+            if (
+                club_idx is not None
+                and club_idx < len(cols)
+            ):
+
+                club = cols[club_idx]
+
+
+
+            players.append(
+                {
+                    "name": name,
+
+                    "position":
+                        POSITION_MAP[pos],
+
+                    "nation":
+                        nation,
+
+                    "number":
+                        number,
+
+                    "club":
+                        club
+                }
             )
 
 
-
-            # expected:
-            #
-            # NAME | POS | NATION | # | CLUB
-            #
-
-            try:
-
-
-                name = cols[
-                    pos_index - 1
-                ]
-
-
-
-                number = None
-
-                club = None
-
-
-
-                for c in cols:
-
-                    if c.isdigit():
-
-                        number = c
-
-
-
-                # club normally last
-
-                club = cols[-1]
-
-
-
-                if (
-                    not name
-                    or not club
-                    or club.lower()
-                    == "club"
-                ):
-
-                    continue
-
-
-
-                players.append(
-                    {
-                        "name":
-                            name,
-
-                        "position":
-                            POSITION_MAP[pos],
-
-                        "nation":
-                            nation,
-
-                        "number":
-                            number,
-
-                        "club":
-                            club
-                    }
-                )
-
-
-                team_count += 1
-
-
-
-            except Exception as e:
-
-                log(
-                    f"{nation}: parse error {cols} {e}"
-                )
+            team_count += 1
 
 
 
@@ -421,9 +467,9 @@ for idx, team_url in enumerate(
 
 
 
-# ==========================
-# Export CSV
-# ==========================
+# =====================
+# EXPORT CSV
+# =====================
 
 
 with open(
@@ -454,9 +500,7 @@ with open(
 
 
 
-log(
-    "======================"
-)
+log("====================")
 
 log(
     f"TOTAL PLAYERS: {len(players)}"
