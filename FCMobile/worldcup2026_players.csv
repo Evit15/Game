@@ -839,6 +839,7 @@ Everardo López,Defender,Mexico,,"March 23, 2005 (aged 21)",3.0,0.0,Toluca
 Denzell García,Defender,Mexico,,"August 15, 2003 (aged 22)",2.0,0.0,Juárez
 Bryan González,Defender,Mexico,,"April 10, 2003 (aged 23)",2.0,0.0,Guadalajara
 Ramón Juárez,Defender,Mexico,,"May 3, 2001 (aged 25)",2.0,0.0,América
+Hirving Lozano, Attacker,Mexico,,"July 30, 1995 (aged 31)",78.0,19.0,PSV
 Eduardo Águila,Defender,Mexico,,"May 17, 2002 (aged 24)",2.0,0.0,Atlético San Luis
 Alejandro Gómez,Defender,Mexico,,"January 31, 2002 (aged 24)",2.0,0.0,Tijuana
 Luis Rey,Defender,Mexico,,"September 14, 2002 (aged 23)",1.0,0.0,Puebla
@@ -944,7 +945,7 @@ Nando Pijnaker,Defender,New Zealand,15.0,"February 25, 1999 (aged 27)",25.0,0.0,
 Finn Surman,Defender,New Zealand,16.0,"September 23, 2003 (aged 22)",19.0,2.0,Portland Timbers
 Kosta Barbarouses,Attacker,New Zealand,17.0,"February 19, 1990 (aged 36)",76.0,10.0,Western Sydney Wanderers
 Ben Waine,Attacker,New Zealand,18.0,"June 11, 2001 (aged 25)",31.0,9.0,Port Vale
-Ben Old,Midfielder,New Zealand,19.0,"August 13, 2002 (aged 23)",24.0,2.0,Saint-Étienne
+Ben Old,Attacker,New Zealand,19.0,"August 13, 2002 (aged 23)",24.0,2.0,Saint-Étienne
 Callum McCowatt,Midfielder,New Zealand,20.0,"April 30, 1999 (aged 27)",32.0,4.0,Silkeborg
 Jesse Randall,Attacker,New Zealand,21.0,"August 19, 2002 (aged 23)",11.0,2.0,Auckland FC
 Michael Woud,Goalkeeper,New Zealand,22.0,"January 16, 1999 (aged 27)",6.0,0.0,Auckland FC
@@ -1247,7 +1248,7 @@ Son Heung-min (captain),Attacker,South Korea,7.0,"July 8, 1992 (aged 33)",144.0,
 Paik Seung-ho,Midfielder,South Korea,8.0,"March 17, 1997 (aged 29)",27.0,3.0,Birmingham City
 Cho Gue-sung,Attacker,South Korea,9.0,"January 25, 1998 (aged 28)",44.0,12.0,Midtjylland
 Lee Jae-sung,Midfielder,South Korea,10.0,"August 10, 1992 (aged 33)",105.0,15.0,Mainz 05
-Hwang Hee-chan,Midfielder,South Korea,11.0,"January 26, 1996 (aged 30)",79.0,17.0,Wolverhampton Wanderers
+Hwang Hee Chan,Attacker,South Korea,11.0,"January 26, 1996 (aged 30)",79.0,17.0,Wolverhampton Wanderers
 Song Bum-keun,Goalkeeper,South Korea,12.0,"October 15, 1997 (aged 28)",3.0,0.0,Jeonbuk Hyundai Motors
 Lee Tae-seok,Defender,South Korea,13.0,"July 28, 2002 (aged 23)",15.0,1.0,Austria Wien
 Cho Wi-je,Defender,South Korea,14.0,"August 25, 2001 (aged 24)",1.0,0.0,Jeonbuk Hyundai Motors
@@ -1494,3 +1495,4 @@ Azizbek Amonov,Attacker,Uzbekistan,,"October 30, 1997 (aged 28)",11.0,2.0,Buxoro
 Ruslanbek Jiyanov,Attacker,Uzbekistan,,"June 5, 2001 (aged 25)",5.0,0.0,Navbahor
 Sherzod Temirov,Attacker,Uzbekistan,,"October 27, 1998 (aged 27)",2.0,0.0,Erbil
 Khusayin Norchaev,Attacker,Uzbekistan,,"February 6, 2002 (aged 24)",1.0,1.0,Navbahor
+Leandro Andrade,Attacker,Cabo Verde,,"January 29, 1998 (aged 28)",0.0,0.0,Qarabağ
